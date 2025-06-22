@@ -58,9 +58,10 @@
 <p align="left">
   <a href="https://awaizahmed.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/awaiz-ahmed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.kaggle.com/awaizahmed27" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="http://www.fiverr.com/s/XLwgRW0" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
   <a href="https://www.instagram.com/4waaiz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+
 
 ---
 
