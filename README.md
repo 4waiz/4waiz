@@ -16,7 +16,7 @@
   🧠 Training in low-level systems and software development at <strong>42 Abu Dhabi</strong><br>
   🎯 Currently deep-diving into data structures, algorithms & scalable architectures<br>
   🌍 I’m open to collaborations on cool full-stack projects (especially MERN stack stuff)<br>
-  💡 I also love helping folks with their computer-related issues — hit me up for tech support!<br>
+  💡 I also love helping folks with their computer-related issues hit me up for tech support!<br>
   💬 Ask me about: <strong>React, Firebase, JavaScript, Tailwind, or anything frontend 🔥</strong><br>
   📫 Reach me directly: <a href="mailto:awaiz42ad@gmail.com"><strong>awaiz42ad@gmail.com</strong></a>
 </p>
