@@ -22,22 +22,6 @@
   />
 </p>
 
-<!-- QUICK LINKS (Color boxes + grey value pill) -->
-<p align="center">
-  <a href="mailto:awaiz42ad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-awaiz42ad%40gmail.com-ef4444?style=for-the-badge&labelColor=111827&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/awaiz-ahmed/">
-    <img src="https://img.shields.io/badge/LinkedIn-Awaiz%20Ahmed-3b82f6?style=for-the-badge&labelColor=111827&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://awaizahmed.com">
-    <img src="https://img.shields.io/badge/Portfolio-awaizahmed.com-a855f7?style=for-the-badge&labelColor=111827&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-DSA%20Grind-f59e0b?style=for-the-badge&labelColor=111827&logo=leetcode&logoColor=111827" />
-  </a>
-</p>
-
 <!-- MINI STATS (grey value pill) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=4waiz&style=for-the-badge&label=Profile%20Views&color=6b7280&labelColor=111827" />
@@ -57,21 +41,13 @@
 
 ## ⚡ About Me
 
-> whoami
-Awaiz Ahmed
-
-> location
-Abu Dhabi, UAE
-
-> focus
-AI/ML + MLOps • Full-Stack • Robotics Automation
-
-> currently
-EDGE Group — Intelligent Systems & Automation Trainee
+- 📍 Abu Dhabi, UAE  
+- 🏢 EDGE Group — Intelligent Systems & Automation Trainee  
+- 🧩 Dev3pack — Web3 Developer Fellow  
+- 🏆 **9× Competition Winner 🏆**  
+- 🚀 Currently shipping: deployable ML pipelines, scalable APIs, and product-ready web appsAutomation Trainee
 Dev3pack — Web3 Developer Fellow
 
-
-## 🏆 9× Competition Winner 🏆
 
 ## 🎓 Education
 
@@ -82,34 +58,29 @@ BSc Software Development — 42 Abu Dhabi
 Level 4 Micro-Credential (Fundamentals of C Programming) — UAE MoE (Competent with Distinction)
 
 ## 🧰 Tech Toolbox
-<p align="center"> <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,react,next,nodejs,fastapi,flask,firebase,azure,docker,kubernetes,githubactions,linux,bash,tensorflow,pytorch,opencv,unity,unreal,figma&theme=dark&perline=12" /> </p> <details> <summary><b>🧠 What I’m strong at (click)</b></summary>
-
-AI/ML + MLOps: training, evaluation, CV/NLP, pipelines, deployment, monitoring
-
-Backend: FastAPI/Flask/Node, REST APIs, auth, DB design, performance
-
-Frontend: React/Next, responsive UI, product-ready flows
-
-Robotics/Automation: ROS workflows, integration, testing, debugging
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,react,next,nodejs,fastapi,flask,firebase,azure,docker,kubernetes,githubactions,linux,bash,tensorflow,pytorch,opencv,unity,unreal,figma&theme=dark&perline=12" /> 
 </details>
 
 </details>
+
 ## 🚀 Featured Builds
 
-Build-in-public: Awaiz Builds Softwares — shipping 1 working web app every week (ideas → votes → live demos).
+<p align="left">
+  <b>Build-in-public:</b> <i>Awaiz Builds Softwares</i> — shipping <b>1 working web app every week</b> (ideas → votes → live demos).
+</p>
 
-XPBridge — Micro-project platform (UAE) with AI advising + smart matching
+### ⭐ Flagship Projects
+- **XPBridge** — Micro-project platform for UAE builders with **AI advising** + **smart matching**
+- **Adwan AR** — WebAR learning platform (**QR → interactive 3D/video**) · https://ar-bridge.vercel.app
+- **Guide Bot** — Indoor guide robot using **ROS Navigation + LLM** · https://4waiz.github.io/Guide-bot
 
-Adwan AR — Web AR (QR → interactive 3D/video learning) · ar-bridge.vercel.app
+### 🤖 AI / Robotics
+- **FalconPatrol AI** — Spot-based robotic surveillance using **OpenCV + FastAPI**
+- **Bridge3MG** — **2D → 3D** model generator exporting **STL / OBJ / GLB**
 
-Guide Bot — Indoor guide robot (ROS navigation + LLM) · 4waiz.github.io/Guide-bot
+### 🌐 Product / Growth
+- **Bridgified** — Conversion-focused websites + **SEO** + growth systems · https://bridgified.com
 
-FalconPatrol AI — Spot-based robotic surveillance (OpenCV + FastAPI)
-
-Bridge3MG — 2D → 3D model generator (STL/OBJ/GLB)
-
-Bridgified — Conversion-focused sites + SEO + growth · bridgified.com
 
 ## 📊 GitHub Signals
 
