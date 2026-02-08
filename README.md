@@ -84,7 +84,13 @@ Level 4 Micro-Credential (Fundamentals of C Programming) — UAE MoE (Competent 
 
 ## 📊 GitHub Signals
 
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4waiz&theme=tokyonight" /> </p> <p align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4waiz&theme=tokyonight" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4waiz&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=4waiz&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=4waiz&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4waiz&theme=tokyonight" /> </p> <p align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4waiz&theme=tokyonight" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4waiz&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=4waiz&theme=tokyonight&hide_border=true" /> <p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=4waiz&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"
+    alt="trophies"
+  />
+</p>
+
 
 ## 🔗 Let’s Connect
 <p align="left"> <a href="https://awaizahmed.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/awaiz-ahmed/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="http://www.fiverr.com/s/XLwgRW0" target="_blank"> <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /> </a> <a href="https://www.instagram.com/4waaiz/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
