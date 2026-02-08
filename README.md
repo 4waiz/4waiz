@@ -51,7 +51,7 @@
 
 <p align="center">
   📍 Abu Dhabi, UAE <br/>
-  🏢 EDGE Group - Intelligent Systems & Automation Trainee <br/>
+  🏢 EDGE Group - Software Engineer <br/>
   🧩 Dev3pack - Web3 Developer Fellow <br/>
   🏆 <b>9× Competition Winner 🏆</b> <br/>
   🚀 Currently shipping: deployable ML pipelines, scalable APIs, and product-ready web apps
