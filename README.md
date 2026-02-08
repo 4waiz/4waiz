@@ -85,11 +85,9 @@ Level 4 Micro-Credential (Fundamentals of C Programming) — UAE MoE (Competent 
 ## 📊 GitHub Signals
 
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4waiz&theme=tokyonight" /> </p> <p align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4waiz&theme=tokyonight" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4waiz&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=4waiz&theme=tokyonight&hide_border=true" /> <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=4waiz&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"
-    alt="trophies"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4waiz&theme=tokyonight" />
 </p>
+
 
 
 ## 🔗 Let’s Connect
