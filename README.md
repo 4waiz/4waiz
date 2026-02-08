@@ -62,28 +62,20 @@ AI/ML + MLOps • Full-Stack • Robotics Automation
 > currently
 EDGE Group — Intelligent Systems & Automation Trainee
 Dev3pack — Web3 Developer Fellow
-🏆 9× Competition Winner 🏆
-1st Place — Smart Health Hackathon (DoH) · BeBTR (AI Fitness + CV posture correction)
 
-1st Place — UAE Game Makers (Endless Studios × Space 42) · Best Overall: Falcon’s Odyssey
+# 🏆 9× Competition Winner 🏆
 
-1st Place — Heritage Innovation Hackathon (Sandooq Al Watan / AAU)
+# 🎓 Education
 
-2nd Place — NextGen Challenge · FalconPatrol AI (Spot-based robotic surveillance)
-
-3rd Place — Zayed University · DocuMaster (AI document validator)
-
-SPECIAL AWARD — NASA Space Apps Dubai · Most Promising Idea
-
-🎓 Education
 BSc Software Engineering — Al Ain University
 
 BSc Software Development — 42 Abu Dhabi
 
 Level 4 Micro-Credential (Fundamentals of C Programming) — UAE MoE (Competent with Distinction)
 
-🧰 Tech Toolbox
+## 🧰 Tech Toolbox
 <p align="center"> <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,react,next,nodejs,fastapi,flask,firebase,azure,docker,kubernetes,githubactions,linux,bash,tensorflow,pytorch,opencv,unity,unreal,figma&theme=dark&perline=12" /> </p> <details> <summary><b>🧠 What I’m strong at (click)</b></summary>
+
 AI/ML + MLOps: training, evaluation, CV/NLP, pipelines, deployment, monitoring
 
 Backend: FastAPI/Flask/Node, REST APIs, auth, DB design, performance
@@ -93,7 +85,10 @@ Frontend: React/Next, responsive UI, product-ready flows
 Robotics/Automation: ROS workflows, integration, testing, debugging
 
 </details>
-🚀 Featured Builds
+
+</details>
+## 🚀 Featured Builds
+
 Build-in-public: Awaiz Builds Softwares — shipping 1 working web app every week (ideas → votes → live demos).
 
 XPBridge — Micro-project platform (UAE) with AI advising + smart matching
@@ -108,8 +103,10 @@ Bridge3MG — 2D → 3D model generator (STL/OBJ/GLB)
 
 Bridgified — Conversion-focused sites + SEO + growth · bridgified.com
 
-📊 GitHub Signals
-<!-- These are usually the most reliable set --> <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=4waiz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4waiz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=4waiz&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=4waiz&theme=tokyonight&no-frame=true&row=1&column=7" /> </p> <!-- OPTIONAL (enable only after workflows are set up; otherwise it shows broken images) <p align="center"> <img src="https://raw.githubusercontent.com/4waiz/4waiz/output/snake.svg" alt="snake animation" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/4waiz/4waiz/main/assets/metrics-terminal.svg" alt="metrics" /> </p> -->
-🔗 Let’s Connect
+# 📊 GitHub Signals
+
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4waiz&theme=tokyonight" /> </p> <p align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4waiz&theme=tokyonight" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4waiz&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=4waiz&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=4waiz&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
+
+# 🔗 Let’s Connect
 <p align="left"> <a href="https://awaizahmed.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/awaiz-ahmed/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="http://www.fiverr.com/s/XLwgRW0" target="_blank"> <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /> </a> <a href="https://www.instagram.com/4waaiz/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
 <p align="center">✨ Building code that <i>actually</i> works, and looks good doing it ✨</p> <!-- BOTTOM BANNER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient" /> </p>
