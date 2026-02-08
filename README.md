@@ -38,6 +38,7 @@
 
 ## ⚡ About Me
 
+```bash
 > whoami
 Awaiz Ahmed
 
