@@ -22,28 +22,36 @@
   />
 </p>
 
-<!-- QUICK LINKS -->
+<!-- QUICK LINKS (Color boxes + grey value pill) -->
 <p align="center">
   <a href="mailto:awaiz42ad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-awaiz42ad%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-awaiz42ad%40gmail.com-ef4444?style=for-the-badge&labelColor=111827&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/awaiz-ahmed/">
-    <img src="https://img.shields.io/badge/LinkedIn-Awaiz%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Awaiz%20Ahmed-3b82f6?style=for-the-badge&labelColor=111827&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://awaizahmed.com">
-    <img src="https://img.shields.io/badge/Portfolio-awaizahmed.com-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-awaizahmed.com-a855f7?style=for-the-badge&labelColor=111827&logo=vercel&logoColor=white" />
   </a>
   <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-DSA%20Grind-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-DSA%20Grind-f59e0b?style=for-the-badge&labelColor=111827&logo=leetcode&logoColor=111827" />
   </a>
 </p>
 
-<!-- MINI STATS -->
+<!-- MINI STATS (grey value pill) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4waiz&style=for-the-badge&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/4waiz?style=for-the-badge&label=Followers" />
-  <img src="https://img.shields.io/github/stars/4waiz?style=for-the-badge&label=Stars" />
+  <img src="https://komarev.com/ghpvc/?username=4waiz&style=for-the-badge&label=Profile%20Views&color=6b7280&labelColor=111827" />
+  <img src="https://img.shields.io/github/followers/4waiz?style=for-the-badge&label=Followers&color=6b7280&labelColor=111827" />
+  <img src="https://img.shields.io/github/stars/4waiz?style=for-the-badge&label=Stars&color=6b7280&labelColor=111827" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-awaiz42ad%40gmail.com-ef4444?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Awaiz%20Ahmed-3b82f6?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-awaizahmed.com-a855f7?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5_LeetCode-DSA%20Grind-f59e0b?style=for-the-badge&labelColor=111827" />
+</p>
+
 
 ---
 
