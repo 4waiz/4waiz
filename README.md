@@ -12,7 +12,6 @@
 
 <h1 align="center">Hey, I'm Awaiz Ahmed 👋</h1>
 
-<!-- ✅ KEEP THIS TAGLINE EXACTLY -->
 <h3 align="center">🚀 Full-Stack Dev | Software Engineering Student | Tech Tinkerer</h3>
 
 <!-- TYPING LINE -->
@@ -63,9 +62,10 @@ AI/ML + MLOps • Full-Stack • Robotics Automation
 EDGE Group — Intelligent Systems & Automation Trainee
 Dev3pack — Web3 Developer Fellow
 
-# 🏆 9× Competition Winner 🏆
 
-# 🎓 Education
+## 🏆 9× Competition Winner 🏆
+
+## 🎓 Education
 
 BSc Software Engineering — Al Ain University
 
@@ -103,10 +103,10 @@ Bridge3MG — 2D → 3D model generator (STL/OBJ/GLB)
 
 Bridgified — Conversion-focused sites + SEO + growth · bridgified.com
 
-# 📊 GitHub Signals
+## 📊 GitHub Signals
 
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4waiz&theme=tokyonight" /> </p> <p align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4waiz&theme=tokyonight" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4waiz&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=4waiz&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=4waiz&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
 
-# 🔗 Let’s Connect
+## 🔗 Let’s Connect
 <p align="left"> <a href="https://awaizahmed.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/awaiz-ahmed/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="http://www.fiverr.com/s/XLwgRW0" target="_blank"> <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /> </a> <a href="https://www.instagram.com/4waaiz/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
 <p align="center">✨ Building code that <i>actually</i> works, and looks good doing it ✨</p> <!-- BOTTOM BANNER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient" /> </p>
