@@ -114,19 +114,61 @@
 <h2 align="center">🚀 Featured Builds</h2>
 
 <p align="center">
-  <b>Build-in-public:</b> <i>Awaiz Builds Softwares</i> — shipping <b>1 working web app every week</b> (ideas → votes → live demos).
+  <b>Build-in-public:</b>
+  <a href="https://awaiz-builds.vercel.app/"><b>Awaiz Builds Softwares</b></a>
+  — I’m shipping <b>1 working web app every week</b> (ideas → votes → live demos).
 </p>
+
+---
+
+<h3 align="center">⭐ Flagship / Personal</h3>
 
 <p align="center">
-  ⭐ <b>XPBridge</b> — Micro-project platform for UAE builders with <b>AI advising</b> + <b>smart matching</b> <br/>
-  ⭐ <b>Adwan AR</b> — WebAR learning platform (QR → interactive 3D/video) · https://ar-bridge.vercel.app <br/>
-  ⭐ <b>Guide Bot</b> — Indoor guide robot (ROS Navigation + LLM) · https://4waiz.github.io/Guide-bot <br/><br/>
-
-  🤖 <b>FalconPatrol AI</b> — Spot-based robotic surveillance (OpenCV + FastAPI) <br/>
-  🤖 <b>Bridge3MG</b> — 2D → 3D model generator (STL/OBJ/GLB) <br/><br/>
-
-  🌐 <b>Bridgified</b> — Conversion-focused sites + SEO + growth · https://bridgified.com
+  <a href="https://awaiz.vercel.app/"><b>Portfolio (Vercel)</b></a> — I built this as my main portfolio to showcase projects + skills.<br/>
+  <a href="https://awaizahmed.com"><b>Website (awaizahmed.com)</b></a> — I built my personal website as my home base online.<br/>
+  <a href="https://awaiz-builds.vercel.app/"><b>Awaiz Builds</b></a> — I made this hub to ship projects consistently and stay accountable.<br/>
+  <a href="https://abs-1.vercel.app/"><b>ABS #1</b></a> — I built this as a small, fast “ship-it” project from my weekly series.<br/>
 </p>
+
+---
+
+<h3 align="center">🧠 AI / ML / Data</h3>
+
+<p align="center">
+  <a href="https://sic-ai-classification.vercel.app/"><b>SIC AI Classification</b></a> — I built this AI classification demo and deployed it for anyone to try.<br/>
+  <a href="https://github.com/4waiz/MNIST-dataset"><b>MNIST Dataset Project</b></a> — I worked on this ML build to learn + ship a clean training pipeline.<br/>
+  <a href="https://cleave-ai-triage.vercel.app/"><b>Cleave AI Triage</b></a> — I built this AI triage experience to make issue sorting / triage smarter.<br/>
+  <a href="https://nasa-meteor-project.vercel.app/"><b>NASA Meteor Project</b></a> — I worked on this NASA-themed project and shipped it live.<br/>
+</p>
+
+---
+
+<h3 align="center">🕶️ Web / Product / Brands</h3>
+
+<p align="center">
+  <a href="https://bridgified.vercel.app/"><b>Bridgified (Vercel)</b></a> — I built this to showcase conversion-focused web builds and clean UI work.<br/>
+  <a href="https://etiva-tech.vercel.app/"><b>Etiva Tech</b></a> — I made this website and shipped a clean brand presence.<br/>
+  <a href="https://rabana.vercel.app/"><b>Rabana</b></a> — I built this as a deployed web project with a polished front-end.<br/>
+  <a href="https://apple-fooods.vercel.app/"><b>Apple Fooods</b></a> — I made this as a product/landing style build and deployed it.<br/>
+  <a href="https://lp-m.vercel.app/"><b>LP-M</b></a> — I built this landing project and shipped it live.<br/>
+  <a href="https://fbdesign.vercel.app/"><b>FBDesign</b></a> — I worked on this design-forward web build and deployed it.<br/>
+  <a href="https://scalesouk.vercel.app/"><b>ScaleSouk</b></a> — I built this as a web product concept and shipped the UI/flow.<br/>
+</p>
+
+---
+
+<h3 align="center">🛠️ Tools / Automation / Experiments</h3>
+
+<p align="center">
+  <a href="https://deed-floww.vercel.app/"><b>Deed Floww</b></a> — I built this experimental web tool and deployed it for quick use.<br/>
+  <a href="https://bridge-pilott.vercel.app/"><b>Bridge Pilott</b></a> — I built this pilot-style web experiment and shipped it as a live demo.<br/>
+  <a href="https://github.com/4waiz/n8n-cyber"><b>n8n-cyber</b></a> — I worked on this automation repo to build cyber/security workflows.<br/>
+  <a href="https://l-education.vercel.app/"><b>L-Education</b></a> — I built this education-themed project and shipped it live.<br/>
+  <a href="https://air-bonsai.vercel.app/"><b>Air Bonsai</b></a> — I made this as a clean web build experiment and deployed it.<br/>
+  <a href="https://bridge-gen-mu.vercel.app/"><b>Bridge Gen</b></a> — I built this generator-style project and shipped it as a live demo.<br/>
+  <a href="https://ar-bridge.vercel.app/"><b>AR Bridge</b></a> — I worked on this WebAR experience and deployed it for interactive demos.<br/>
+</p>
+
 
 ---
 
