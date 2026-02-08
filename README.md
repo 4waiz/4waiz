@@ -76,15 +76,38 @@
 </p>
 
 <details>
-  <summary><b>🧠 What I’m strong at (click)</b></summary>
+  <summary><b>🧠 Core Strengths (click)</b></summary>
 
-<p align="center">
-  <b>AI/ML + MLOps:</b> training, evaluation, CV/NLP, pipelines, deployment, monitoring <br/>
-  <b>Backend:</b> FastAPI/Flask/Node, REST APIs, auth, DB design, performance <br/>
-  <b>Frontend:</b> React/Next, responsive UI, product-ready flows <br/>
-  <b>Robotics/Automation:</b> ROS workflows, integration, testing, debugging
-</p>
+  <br/>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/AI%2FML-111827?style=for-the-badge&labelColor=6d28d9" />
+    <img src="https://img.shields.io/badge/MLOps-111827?style=for-the-badge&labelColor=6d28d9" />
+    <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&labelColor=6d28d9" />
+    <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&labelColor=6d28d9" />
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Backend%20APIs-111827?style=for-the-badge&labelColor=2563eb" />
+    <img src="https://img.shields.io/badge/Auth%20%26%20DB%20Design-111827?style=for-the-badge&labelColor=2563eb" />
+    <img src="https://img.shields.io/badge/Performance-111827?style=for-the-badge&labelColor=2563eb" />
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Frontend%20(React%2FNext)-111827?style=for-the-badge&labelColor=14b8a6" />
+    <img src="https://img.shields.io/badge/Responsive%20UI-111827?style=for-the-badge&labelColor=14b8a6" />
+    <img src="https://img.shields.io/badge/Product%20Flows-111827?style=for-the-badge&labelColor=14b8a6" />
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Robotics%20%2F%20ROS-111827?style=for-the-badge&labelColor=f97316" />
+    <img src="https://img.shields.io/badge/Integration%20%26%20Testing-111827?style=for-the-badge&labelColor=f97316" />
+    <img src="https://img.shields.io/badge/Debugging-111827?style=for-the-badge&labelColor=f97316" />
+  </p>
+
+  <br/>
 </details>
+
 
 ---
 
