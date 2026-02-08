@@ -22,74 +22,130 @@
   />
 </p>
 
-<!-- MINI STATS (grey value pill) -->
+<!-- MINI STATS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=4waiz&style=for-the-badge&label=Profile%20Views&color=6b7280&labelColor=111827" />
   <img src="https://img.shields.io/github/followers/4waiz?style=for-the-badge&label=Followers&color=6b7280&labelColor=111827" />
   <img src="https://img.shields.io/github/stars/4waiz?style=for-the-badge&label=Stars&color=6b7280&labelColor=111827" />
 </p>
 
+<!-- QUICK LINKS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-awaiz42ad%40gmail.com-ef4444?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Awaiz%20Ahmed-3b82f6?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-awaizahmed.com-a855f7?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5_LeetCode-DSA%20Grind-f59e0b?style=for-the-badge&labelColor=111827" />
+  <a href="mailto:awaiz42ad@gmail.com">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-awaiz42ad%40gmail.com-ef4444?style=for-the-badge&labelColor=111827" />
+  </a>
+  <a href="https://www.linkedin.com/in/awaiz-ahmed/">
+    <img src="https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Awaiz%20Ahmed-3b82f6?style=for-the-badge&labelColor=111827" />
+  </a>
+  <a href="https://awaizahmed.com">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-awaizahmed.com-a855f7?style=for-the-badge&labelColor=111827" />
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/%F0%9F%94%A5_LeetCode-DSA%20Grind-f59e0b?style=for-the-badge&labelColor=111827" />
+  </a>
 </p>
-
 
 ---
 
-## ⚡ About Me
+<h2 align="center">⚡ About Me</h2>
 
-- 📍 Abu Dhabi, UAE  
-- 🏢 EDGE Group — Intelligent Systems & Automation Trainee  
-- 🧩 Dev3pack — Web3 Developer Fellow  
-- 🏆 **9× Competition Winner 🏆**  
-- 🚀 Currently shipping: deployable ML pipelines, scalable APIs, and product-ready web appsAutomation Trainee
-Dev3pack — Web3 Developer Fellow
+<p align="center">
+  📍 Abu Dhabi, UAE <br/>
+  🏢 EDGE Group — Intelligent Systems & Automation Trainee <br/>
+  🧩 Dev3pack — Web3 Developer Fellow <br/>
+  🏆 <b>9× Competition Winner 🏆</b> <br/>
+  🚀 Currently shipping: deployable ML pipelines, scalable APIs, and product-ready web apps
+</p>
 
+---
 
-## 🎓 Education
+<h2 align="center">🎓 Education</h2>
 
-BSc Software Engineering — Al Ain University
+<p align="center">
+  BSc Software Engineering — Al Ain University <br/>
+  BSc Software Development — 42 Abu Dhabi <br/>
+  Level 4 Micro-Credential (Fundamentals of C Programming) — UAE MoE (Competent with Distinction)
+</p>
 
-BSc Software Development — 42 Abu Dhabi
+---
 
-Level 4 Micro-Credential (Fundamentals of C Programming) — UAE MoE (Competent with Distinction)
+<h2 align="center">🧰 Tech Toolbox</h2>
 
-## 🧰 Tech Toolbox
-<p align="center"> <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,react,next,nodejs,fastapi,flask,firebase,azure,docker,kubernetes,githubactions,linux,bash,tensorflow,pytorch,opencv,unity,unreal,figma&theme=dark&perline=12" /> 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,react,next,nodejs,fastapi,flask,firebase,azure,docker,kubernetes,githubactions,linux,bash,tensorflow,pytorch,opencv,unity,unreal,figma&theme=dark&perline=12" />
+</p>
+
+<details>
+  <summary><b>🧠 What I’m strong at (click)</b></summary>
+
+<p align="center">
+  <b>AI/ML + MLOps:</b> training, evaluation, CV/NLP, pipelines, deployment, monitoring <br/>
+  <b>Backend:</b> FastAPI/Flask/Node, REST APIs, auth, DB design, performance <br/>
+  <b>Frontend:</b> React/Next, responsive UI, product-ready flows <br/>
+  <b>Robotics/Automation:</b> ROS workflows, integration, testing, debugging
+</p>
 </details>
 
-</details>
+---
 
-## 🚀 Featured Builds
+<h2 align="center">🚀 Featured Builds</h2>
 
-<p align="left">
+<p align="center">
   <b>Build-in-public:</b> <i>Awaiz Builds Softwares</i> — shipping <b>1 working web app every week</b> (ideas → votes → live demos).
 </p>
 
-### ⭐ Flagship Projects
-- **XPBridge** — Micro-project platform for UAE builders with **AI advising** + **smart matching**
-- **Adwan AR** — WebAR learning platform (**QR → interactive 3D/video**) · https://ar-bridge.vercel.app
-- **Guide Bot** — Indoor guide robot using **ROS Navigation + LLM** · https://4waiz.github.io/Guide-bot
+<p align="center">
+  ⭐ <b>XPBridge</b> — Micro-project platform for UAE builders with <b>AI advising</b> + <b>smart matching</b> <br/>
+  ⭐ <b>Adwan AR</b> — WebAR learning platform (QR → interactive 3D/video) · https://ar-bridge.vercel.app <br/>
+  ⭐ <b>Guide Bot</b> — Indoor guide robot (ROS Navigation + LLM) · https://4waiz.github.io/Guide-bot <br/><br/>
 
-### 🤖 AI / Robotics
-- **FalconPatrol AI** — Spot-based robotic surveillance using **OpenCV + FastAPI**
-- **Bridge3MG** — **2D → 3D** model generator exporting **STL / OBJ / GLB**
+  🤖 <b>FalconPatrol AI</b> — Spot-based robotic surveillance (OpenCV + FastAPI) <br/>
+  🤖 <b>Bridge3MG</b> — 2D → 3D model generator (STL/OBJ/GLB) <br/><br/>
 
-### 🌐 Product / Growth
-- **Bridgified** — Conversion-focused websites + **SEO** + growth systems · https://bridgified.com
+  🌐 <b>Bridgified</b> — Conversion-focused sites + SEO + growth · https://bridgified.com
+</p>
 
+---
 
-## 📊 GitHub Signals
+<h2 align="center">📊 GitHub Signals</h2>
 
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4waiz&theme=tokyonight" /> </p> <p align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4waiz&theme=tokyonight" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4waiz&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=4waiz&theme=tokyonight&hide_border=true" /> <p align="center">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4waiz&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4waiz&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4waiz&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=4waiz&theme=tokyonight&hide_border=true" />
+</p>
 
-## 🔗 Let’s Connect
-<p align="left"> <a href="https://awaizahmed.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/awaiz-ahmed/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="http://www.fiverr.com/s/XLwgRW0" target="_blank"> <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /> </a> <a href="https://www.instagram.com/4waaiz/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
-<p align="center">✨ Building code that <i>actually</i> works, and looks good doing it ✨</p> <!-- BOTTOM BANNER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient" /> </p>
+---
+
+<h2 align="center">🔗 Let’s Connect</h2>
+
+<p align="center">
+  <a href="https://awaizahmed.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/awaiz-ahmed/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="http://www.fiverr.com/s/XLwgRW0" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/4waaiz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Building code that <i>actually</i> works, and looks good doing it ✨</p>
+
+<!-- BOTTOM BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient" />
+</p>
