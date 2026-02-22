@@ -12,7 +12,7 @@
 
 <h1 align="center">Hey, I'm Awaiz Ahmed 👋</h1>
 
-<h3 align="center">🚀 Full-Stack Dev | Software Engineering Student | Tech Tinkerer</h3>
+<h3 align="center">🚀 Full-Stack Dev | Software Engineer | Tech Tinkerer</h3>
 
 <!-- TYPING LINE -->
 <p align="center">
