@@ -45,6 +45,11 @@
   </a>
 </p>
 
+<!-- SPONSOR -->
+<p align="center">
+  <iframe src="https://github.com/sponsors/4waiz/button" title="Sponsor 4waiz" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+</p>
+
 ---
 
 <h2 align="center">⚡ About Me</h2>
