@@ -47,7 +47,9 @@
 
 <!-- SPONSOR -->
 <p align="center">
-  <iframe src="https://github.com/sponsors/4waiz/button" title="Sponsor 4waiz" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+  <a href="https://github.com/sponsors/4waiz">
+    <img src="https://img.shields.io/github/sponsors/4waiz?style=for-the-badge&logo=GitHub-Sponsors&label=Sponsor" />
+  </a>
 </p>
 
 ---
