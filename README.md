@@ -2,22 +2,28 @@
 
 <!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Awaiz%20Ahmed&fontSize=60&fontAlignY=35&animation=fadeIn&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Awaiz%20Ahmed&fontSize=62&fontAlignY=35&animation=fadeIn&color=0:0f172a,45:2563eb,100:7c3aed" />
 </p>
 
 <!-- HERO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/4waiz/awaizportfolio/main/public/Coding.gif" width="70" />
+  <img src="https://raw.githubusercontent.com/4waiz/awaizportfolio/main/public/Coding.gif" width="90" />
 </p>
 
 <h1 align="center">Hey, I'm Awaiz Ahmed 👋</h1>
 
-<h3 align="center">🚀 Full-Stack Dev | Software Engineer | Tech Tinkerer</h3>
+<h3 align="center">
+  Software Engineer • AI/ML • MLOps • Full-Stack • Robotics • Industry 5.0
+</h3>
+
+<p align="center">
+  Building systems that feel simple on the surface, but run like serious infrastructure underneath.
+</p>
 
 <!-- TYPING LINE -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2300&pause=700&color=70A5FD&center=true&vCenter=true&width=900&lines=AI%2FML+%2B+MLOps+%7C+Full-Stack+%7C+Robotics+Automation;EDGE+Group+%7C+42+Abu+Dhabi+%7C+Al+Ain+University;Shipping+production-ready+builds+%E2%80%94+clean%2C+fast%2C+scalable;9%C3%97+Competition+Winner+%F0%9F%8F%86"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2300&pause=700&color=70A5FD&center=true&vCenter=true&width=1000&lines=Software+Engineer+%40+EDGE+%7C+Founder+of+Kanban+Studios;AI%2FML+%2B+MLOps+%7C+Full-Stack+%7C+Robotics+%7C+Industry+5.0;Building+Kanban+Staff+OS+%2B+Kanban+Agents+%2B+AI+automation+systems;17%C3%97+Competition+Winner+%F0%9F%8F%86;Shipping+real+products%2C+not+just+demos"
     alt="Typing SVG"
   />
 </p>
@@ -32,23 +38,23 @@
 <!-- QUICK LINKS -->
 <p align="center">
   <a href="mailto:awaiz42ad@gmail.com">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-awaiz42ad%40gmail.com-ef4444?style=for-the-badge&labelColor=111827" />
+    <img src="https://img.shields.io/badge/Email-awaiz42ad%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
   </a>
   <a href="https://www.linkedin.com/in/awaiz-ahmed/">
-    <img src="https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Awaiz%20Ahmed-3b82f6?style=for-the-badge&labelColor=111827" />
+    <img src="https://img.shields.io/badge/LinkedIn-Awaiz%20Ahmed-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
   </a>
   <a href="https://awaizahmed.com">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-awaizahmed.com-a855f7?style=for-the-badge&labelColor=111827" />
+    <img src="https://img.shields.io/badge/Portfolio-awaizahmed.com-a855f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" />
   </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/%F0%9F%94%A5_LeetCode-DSA%20Grind-f59e0b?style=for-the-badge&labelColor=111827" />
+  <a href="https://github.com/4waiz">
+    <img src="https://img.shields.io/badge/GitHub-4waiz-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
   </a>
 </p>
 
 <!-- SPONSOR -->
 <p align="center">
   <a href="https://github.com/sponsors/4waiz">
-    <img src="https://img.shields.io/github/sponsors/4waiz?style=for-the-badge&logo=GitHub-Sponsors&label=Sponsor" />
+    <img src="https://img.shields.io/github/sponsors/4waiz?style=for-the-badge&logo=GitHub-Sponsors&label=Sponsor&labelColor=111827" />
   </a>
 </p>
 
@@ -57,11 +63,31 @@
 <h2 align="center">⚡ About Me</h2>
 
 <p align="center">
-  📍 Abu Dhabi, UAE <br/>
-  🏢 EDGE Group - Software Engineer <br/>
-  🧩 Dev3pack - Web3 Developer Fellow <br/>
-  🏆 <b>15× Competition Winner 🏆</b> <br/>
-  🚀 Currently shipping: deployable ML pipelines, scalable APIs, and product-ready web apps
+  📍 Abu Dhabi, United Arab Emirates <br/>
+  🏢 Software Engineer @ EDGE <br/>
+  🧠 Founder / Builder @ Kanban Studios <br/>
+  🎓 Al Ain University + 42 Abu Dhabi <br/>
+  🏆 <b>17× Competition Winner</b> <br/>
+  🚀 Building AI systems, automation platforms, robotics demos, dashboards, and deployable software products
+</p>
+
+<p align="center">
+  I like building products that are not just pretty screens. I build the backend, the workflows, the AI layer, the dashboards, the automation, the deployment, and the actual system around the idea.
+</p>
+
+---
+
+<h2 align="center">🧭 What I Build</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Automation-111827?style=for-the-badge&labelColor=7c3aed" />
+  <img src="https://img.shields.io/badge/MLOps-111827?style=for-the-badge&labelColor=7c3aed" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-111827?style=for-the-badge&labelColor=7c3aed" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Apps-111827?style=for-the-badge&labelColor=2563eb" />
+  <img src="https://img.shields.io/badge/Dashboards-111827?style=for-the-badge&labelColor=2563eb" />
+  <img src="https://img.shields.io/badge/Robotics%20%2F%20ROS-111827?style=for-the-badge&labelColor=f97316" />
+  <img src="https://img.shields.io/badge/Industry%205.0-111827?style=for-the-badge&labelColor=0f766e" />
+  <img src="https://img.shields.io/badge/Cloud%20%2F%20DevOps-111827?style=for-the-badge&labelColor=0ea5e9" />
 </p>
 
 ---
@@ -69,9 +95,10 @@
 <h2 align="center">🎓 Education</h2>
 
 <p align="center">
-  BSc Software Engineering - Al Ain University <br/>
-  BSc Software Development - 42 Abu Dhabi <br/>
-  Level 4 Micro-Credential (Fundamentals of C Programming) - UAE MoE (Competent with Distinction)
+  <b>BSc Software Engineering</b> — Al Ain University <br/>
+  <b>BSc Software Development</b> — 42 Abu Dhabi <br/>
+  <b>Level 4 Micro-Credential in C Programming</b> — UAE MoE, Competent with Distinction <br/>
+  <b>CS50x + Cybersecurity Track</b> — Harvard / self-driven learning
 </p>
 
 ---
@@ -79,103 +106,246 @@
 <h2 align="center">🧰 Tech Toolbox</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,react,next,nodejs,fastapi,flask,firebase,azure,docker,kubernetes,githubactions,linux,bash,tensorflow,pytorch,opencv,unity,unreal,figma&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,react,next,nodejs,express,fastapi,flask,postgres,mongodb,supabase,firebase,azure,aws,docker,kubernetes,githubactions,linux,bash,tensorflow,pytorch,opencv,ros,unity,unreal,figma&theme=dark&perline=12" />
 </p>
 
 <details>
-  <summary><b>🧠 Core Strengths (click)</b></summary>
+  <summary><b>🧠 Core Strengths</b></summary>
 
   <br/>
 
   <p align="center">
     <img src="https://img.shields.io/badge/AI%2FML-111827?style=for-the-badge&labelColor=6d28d9" />
     <img src="https://img.shields.io/badge/MLOps-111827?style=for-the-badge&labelColor=6d28d9" />
+    <img src="https://img.shields.io/badge/RAG%20%2F%20Document%20AI-111827?style=for-the-badge&labelColor=6d28d9" />
     <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&labelColor=6d28d9" />
-    <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&labelColor=6d28d9" />
   </p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Backend%20APIs-111827?style=for-the-badge&labelColor=2563eb" />
     <img src="https://img.shields.io/badge/Auth%20%26%20DB%20Design-111827?style=for-the-badge&labelColor=2563eb" />
-    <img src="https://img.shields.io/badge/Performance-111827?style=for-the-badge&labelColor=2563eb" />
+    <img src="https://img.shields.io/badge/Automation%20Pipelines-111827?style=for-the-badge&labelColor=2563eb" />
+    <img src="https://img.shields.io/badge/Secure%20Systems-111827?style=for-the-badge&labelColor=2563eb" />
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Frontend%20(React%2FNext)-111827?style=for-the-badge&labelColor=14b8a6" />
-    <img src="https://img.shields.io/badge/Responsive%20UI-111827?style=for-the-badge&labelColor=14b8a6" />
-    <img src="https://img.shields.io/badge/Product%20Flows-111827?style=for-the-badge&labelColor=14b8a6" />
+    <img src="https://img.shields.io/badge/Frontend%20React%2FNext-111827?style=for-the-badge&labelColor=14b8a6" />
+    <img src="https://img.shields.io/badge/Product%20UX-111827?style=for-the-badge&labelColor=14b8a6" />
+    <img src="https://img.shields.io/badge/Dashboards%20%26%20Admin%20Panels-111827?style=for-the-badge&labelColor=14b8a6" />
   </p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Robotics%20%2F%20ROS-111827?style=for-the-badge&labelColor=f97316" />
-    <img src="https://img.shields.io/badge/Integration%20%26%20Testing-111827?style=for-the-badge&labelColor=f97316" />
-    <img src="https://img.shields.io/badge/Debugging-111827?style=for-the-badge&labelColor=f97316" />
+    <img src="https://img.shields.io/badge/IoT%20%2F%20Edge%20Systems-111827?style=for-the-badge&labelColor=f97316" />
+    <img src="https://img.shields.io/badge/Simulation%20%2F%203D-111827?style=for-the-badge&labelColor=f97316" />
   </p>
 
-  <br/>
 </details>
 
+---
+
+<h2 align="center">🏗️ Current Flagship Ecosystem</h2>
+
+<h3 align="center">Kanban Studios — AI Software, Automation & Secure Business Systems</h3>
+
+<p align="center">
+  <b>Kanban Studios</b> is the product and software ecosystem I am building around AI-assisted, human-reviewed engineering.
+</p>
+
+<p align="center">
+  <a href="https://kanbanstudios.ae"><b>kanbanstudios.ae</b></a>
+</p>
+
+<p align="center">
+  Built around one idea: <b>systems should not just look good, they should not fail when people actually use them.</b>
+</p>
+
+<table align="center">
+  <tr>
+    <td><b>Kanban Staff OS</b></td>
+    <td>An internal operating system for Kanban Studios covering staff workflows, leadership KPIs, tasks, project delivery, sales pipeline, internal docs, and company execution.</td>
+  </tr>
+  <tr>
+    <td><b>Kanban Agents</b></td>
+    <td>A supervised AI-assisted delivery workspace with human review, task tracking, internal agents, project visibility, and operational control.</td>
+  </tr>
+  <tr>
+    <td><b>Kanban Tools</b></td>
+    <td>A tools layer for useful business utilities, automation helpers, generators, dashboards, and internal workflow accelerators.</td>
+  </tr>
+  <tr>
+    <td><b>Kanban OpsCore</b></td>
+    <td>A business operating system concept for SMEs that transforms WhatsApp, Excel, scattered files, and manual follow-ups into CRM, dashboard, SOP, and automation workflows.</td>
+  </tr>
+  <tr>
+    <td><b>Kanban Labs</b></td>
+    <td>A lab concept for turning hackathon builds, prototypes, and abandoned MVPs into real products.</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20With-Next.js-111827?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/AI%20Layer-RAG%20%2F%20Agents-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operations-Staff%20OS-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployment-Cloudflare%20%2F%20Vercel%20%2F%20Cloud-0ea5e9?style=for-the-badge" />
+</p>
 
 ---
 
 <h2 align="center">🚀 Featured Builds</h2>
 
 <p align="center">
-  <b>Build-in-public:</b>
-  <a href="https://awaiz-builds.vercel.app/"><b>Awaiz Builds Softwares</b></a>
-  - I’m shipping <b>1 working web app every week</b> (ideas → votes → live demos).
+  A mix of deployed products, hackathon winners, AI systems, robotics builds, internal platforms, dashboards, and experiments.
 </p>
 
 ---
 
-<h3 align="center">⭐ Flagship / Personal</h3>
+<h3 align="center">⭐ Flagship / Company Systems</h3>
 
 <p align="center">
-  <a href="https://awaiz.vercel.app/"><b>Portfolio (Vercel)</b></a> - I built this as my main portfolio to showcase projects + skills.<br/>
-  <a href="https://awaizahmed.com"><b>Website (awaizahmed.com)</b></a> - I built my personal website as my home base online.<br/>
-  <a href="https://awaiz-builds.vercel.app/"><b>Awaiz Builds</b></a> - I made this hub to ship projects consistently and stay accountable.<br/>
-  <a href="https://abs-1.vercel.app/"><b>ABS #1</b></a> - I built this as a small, fast “ship-it” project from my weekly series.<br/>
+  <a href="https://kanbanstudios.ae"><b>Kanban Studios</b></a> — AI software and automation studio website built around secure business systems.<br/>
+  <a href="https://github.com/4waiz/kanban"><b>Kanban</b></a> — Core Kanban Studios web/product foundation.<br/>
+  <a href="https://github.com/4waiz/kanban-staff"><b>Kanban Staff OS</b></a> — A full internal operating system for Kanban Studios: staff, KPIs, operations, pipeline, tasks, and execution.<br/>
+  <a href="https://github.com/4waiz/kanban-agents"><b>Kanban Agents</b></a> — AI-assisted internal delivery workspace and supervised agent board.<br/>
+  <a href="https://github.com/4waiz/kanban-tools"><b>Kanban Tools</b></a> — Business utilities and automation tools for the Kanban Studios ecosystem.<br/>
+  <a href="https://github.com/4waiz/bridge-workspace"><b>Bridge Workspace</b></a> — Workspace/productivity environment experiment for team execution and project organization.<br/>
+  <a href="https://github.com/4waiz/bridge-ai"><b>Bridge AI</b></a> — AI-focused workspace/project foundation.<br/>
 </p>
 
 ---
 
-<h3 align="center">🧠 AI / ML / Data</h3>
+<h3 align="center">🧠 AI / ML / RAG / Data Systems</h3>
 
 <p align="center">
-  <a href="https://sic-ai-classification.vercel.app/"><b>SIC AI Classification</b></a> - I built this AI classification demo and deployed it for anyone to try.<br/>
-  <a href="https://github.com/4waiz/MNIST-dataset"><b>MNIST Dataset Project</b></a> - I worked on this ML build to learn + ship a clean training pipeline.<br/>
-  <a href="https://cleave-ai-triage.vercel.app/"><b>Cleave AI Triage</b></a> - I built this AI triage experience to make issue sorting / triage smarter.<br/>
-  <a href="https://nasa-meteor-project.vercel.app/"><b>NASA Meteor Project</b></a> - I worked on this NASA-themed project and shipped it live.<br/>
+  <a href="https://github.com/4waiz/SIC-AI-Classification"><b>SIC AI Classification</b></a> — AI classification demo for structured prediction and model-backed workflows.<br/>
+  <a href="https://github.com/4waiz/AI-Triage"><b>AI Triage</b></a> — AI triage system for sorting, prioritizing, and routing issues or cases.<br/>
+  <a href="https://github.com/4waiz/CiteGuard-RAG"><b>CiteGuard RAG</b></a> — Retrieval-augmented generation system focused on source-grounded answers and citation safety.<br/>
+  <a href="https://github.com/4waiz/Audience-Lens"><b>Audience Lens</b></a> — AI-assisted audience and insight analysis project.<br/>
+  <a href="https://github.com/4waiz/MNIST-dataset"><b>MNIST Dataset Project</b></a> — ML training and dataset pipeline project.<br/>
+  <a href="https://github.com/4waiz/nasa-meteor-project"><b>NASA Meteor Project</b></a> — Meteor data / NASA-themed analysis and visualization project.<br/>
+  <a href="https://github.com/4waiz/Hackathon-Evaluator"><b>Hackathon Evaluator</b></a> — AI-assisted project evaluation system for hackathon judging and scoring workflows.<br/>
+  <a href="https://github.com/4waiz/Replay2PR"><b>Replay2PR</b></a> — Tooling concept for turning development history / replay into PR-ready output.<br/>
+  <a href="https://github.com/4waiz/TracePilot"><b>TracePilot</b></a> — Traceability-focused project for tracking decisions, workflows, or system activity.<br/>
 </p>
 
 ---
 
-<h3 align="center">🕶️ Web / Product / Brands</h3>
+<h3 align="center">🏆 Hackathon / Competition Builds</h3>
 
 <p align="center">
-  <a href="https://bridgified.vercel.app/"><b>Bridgified (Vercel)</b></a> - I built this to showcase conversion-focused web builds and clean UI work.<br/>
-  <a href="https://etiva-tech.vercel.app/"><b>Etiva Tech</b></a> - I made this website and shipped a clean brand presence.<br/>
-  <a href="https://rabana.vercel.app/"><b>Rabana</b></a> - I built this as a deployed web project with a polished front-end.<br/>
-  <a href="https://apple-fooods.vercel.app/"><b>Apple Fooods</b></a> - I made this as a product/landing style build and deployed it.<br/>
-  <a href="https://lp-m.vercel.app/"><b>LP-M</b></a> - I built this landing project and shipped it live.<br/>
-  <a href="https://fbdesign.vercel.app/"><b>FBDesign</b></a> - I worked on this design-forward web build and deployed it.<br/>
-  <a href="https://scalesouk.vercel.app/"><b>ScaleSouk</b></a> - I built this as a web product concept and shipped the UI/flow.<br/>
+  <a href="https://github.com/4waiz/DeedFlow"><b>DeedFlow</b></a> — Competition build around structured workflows, digital process flow, and product execution.<br/>
+  <a href="https://github.com/4waiz/starks-mvp"><b>Starkz AI</b></a> — AI safety agent concept for outdoor workers and extreme heat risk management.<br/>
+  <a href="https://github.com/4waiz/Raa-i"><b>Raa’i</b></a> — Arabic-first rural farm companion concept for camel-farm families and local agriculture workflows.<br/>
+  <a href="https://github.com/4waiz/BridgeLabAI"><b>BridgeLabAI</b></a> — Bilingual STEM / AI learning lab coach concept.<br/>
+  <a href="https://github.com/4waiz/Tamkeen-Tutor"><b>Tamkeen Tutor</b></a> — Education and learning assistant project built around accessible tutoring flows.<br/>
+  <a href="https://github.com/4waiz/Mizan"><b>Mizan</b></a> — Sustainability / utility-focused innovation build.<br/>
+  <a href="https://github.com/4waiz/Shaheen"><b>Shaheen</b></a> — UAE-inspired project build with product/demo potential.<br/>
+  <a href="https://github.com/4waiz/BRIDGE-SPOT-AI"><b>BRIDGE SPOT AI</b></a> — AI-powered detection / analysis project concept.<br/>
+  <a href="https://github.com/4waiz/Guide-bot"><b>Guide Bot</b></a> — Assistant / guide-style automation project.<br/>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Tools / Automation / Experiments</h3>
+<h3 align="center">🏭 Industry 5.0 / Robotics / IoT / Engineering</h3>
 
 <p align="center">
-  <a href="https://deed-floww.vercel.app/"><b>Deed Floww</b></a> - I built this experimental web tool and deployed it for quick use.<br/>
-  <a href="https://bridge-pilott.vercel.app/"><b>Bridge Pilott</b></a> - I built this pilot-style web experiment and shipped it as a live demo.<br/>
-  <a href="https://github.com/4waiz/n8n-cyber"><b>n8n-cyber</b></a> - I worked on this automation repo to build cyber/security workflows.<br/>
-  <a href="https://l-education.vercel.app/"><b>L-Education</b></a> - I built this education-themed project and shipped it live.<br/>
-  <a href="https://air-bonsai.vercel.app/"><b>Air Bonsai</b></a> - I made this as a clean web build experiment and deployed it.<br/>
-  <a href="https://bridge-gen-mu.vercel.app/"><b>Bridge Gen</b></a> - I built this generator-style project and shipped it as a live demo.<br/>
-  <a href="https://ar-bridge.vercel.app/"><b>AR Bridge</b></a> - I worked on this WebAR experience and deployed it for interactive demos.<br/>
+  <a href="https://github.com/4waiz/industry5.0"><b>Industry 5.0</b></a> — Smart manufacturing, human-centered industry, automation, and digital transformation content/system work.<br/>
+  <a href="https://github.com/4waiz/ros2_ws1"><b>ROS2 Workspace</b></a> — ROS2 robotics workspace for robotics learning, experimentation, and automation.<br/>
+  <a href="https://github.com/4waiz/RPi-5-ASRS"><b>RPi-5 ASRS</b></a> — Raspberry Pi 5 automated storage/retrieval system concept.<br/>
+  <a href="https://github.com/4waiz/ASRS_WS"><b>ASRS Workspace</b></a> — Robotics / warehouse automation workspace.<br/>
+  <a href="https://github.com/4waiz/SLF"><b>SLF</b></a> — Robotics / drone / training-related project workspace.<br/>
+  <a href="https://github.com/4waiz/sec-hmi"><b>SEC HMI</b></a> — Human-machine interface project with security / industrial system direction.<br/>
+  <a href="https://github.com/4waiz/fleet-console"><b>Fleet Console</b></a> — Fleet/dashboard control interface experiment.<br/>
+  <a href="https://github.com/4waiz/edge-front"><b>Edge Front</b></a> — Frontend/system interface project.<br/>
+  <a href="https://github.com/4waiz/edge-dog"><b>Edge Dog</b></a> — Robotics / edge system experiment.<br/>
 </p>
 
+---
+
+<h3 align="center">🌐 Web Apps / Products / Brands</h3>
+
+<p align="center">
+  <a href="https://github.com/4waiz/awaizportfolio"><b>Awaiz Portfolio</b></a> — Personal portfolio website and online identity hub.<br/>
+  <a href="https://github.com/4waiz/Portfolio"><b>Portfolio</b></a> — Portfolio project archive and frontend work.<br/>
+  <a href="https://github.com/4waiz/Bridgified"><b>Bridgified</b></a> — Conversion-focused website / product landing build.<br/>
+  <a href="https://github.com/4waiz/BridgePilot"><b>BridgePilot</b></a> — Pilot-style product interface and web app experiment.<br/>
+  <a href="https://github.com/4waiz/BridgeVault"><b>BridgeVault</b></a> — Vault / secure storage themed project.<br/>
+  <a href="https://github.com/4waiz/Bridge-scan"><b>Bridge Scan</b></a> — Scan / document / workflow automation concept.<br/>
+  <a href="https://github.com/4waiz/scalesouk-mvp"><b>ScaleSouk MVP</b></a> — Marketplace / growth product MVP concept.<br/>
+  <a href="https://github.com/4waiz/SooqRoot"><b>SooqRoot</b></a> — Commerce / marketplace-oriented web build.<br/>
+  <a href="https://github.com/4waiz/Al-Dabiyat"><b>Al-Dabiyat</b></a> — Arabic brand / web product project.<br/>
+  <a href="https://github.com/4waiz/Ghalia-App"><b>Ghalia App</b></a> — App/product interface build.<br/>
+  <a href="https://github.com/4waiz/Fbdesign"><b>FBDesign</b></a> — Design-forward frontend/web build.<br/>
+  <a href="https://github.com/4waiz/Dapper"><b>Dapper</b></a> — Product interface / web application experiment.<br/>
+  <a href="https://github.com/4waiz/solaris-ai"><b>Solaris AI</b></a> — AI/product website or assistant concept.<br/>
+</p>
+
+---
+
+<h3 align="center">📚 Education / Learning / Community</h3>
+
+<p align="center">
+  <a href="https://github.com/4waiz/edVance-ar"><b>edVance AR</b></a> — AR education project for immersive learning.<br/>
+  <a href="https://github.com/4waiz/edvance-assets"><b>edVance Assets</b></a> — Assets and supporting files for the edVance ecosystem.<br/>
+  <a href="https://github.com/4waiz/LEducation"><b>L-Education</b></a> — Education-themed web/product project.<br/>
+  <a href="https://github.com/4waiz/IEEE-AAU"><b>IEEE AAU</b></a> — IEEE / university community project.<br/>
+  <a href="https://github.com/4waiz/LinkedIn"><b>LinkedIn</b></a> — Professional profile / content / personal branding workspace.<br/>
+  <a href="https://github.com/4waiz/certificate-generator"><b>Certificate Generator</b></a> — Generator tool for certificates and completion workflows.<br/>
+</p>
+
+---
+
+<h3 align="center">🛠️ Tools / Automation / Developer Experiments</h3>
+
+<p align="center">
+  <a href="https://github.com/4waiz/n8n-cyber"><b>n8n Cyber</b></a> — Automation workflows with cybersecurity direction.<br/>
+  <a href="https://github.com/4waiz/alert-svelte"><b>Alert Svelte</b></a> — Svelte alert / notification component experiment.<br/>
+  <a href="https://github.com/4waiz/jarvis-hud"><b>Jarvis HUD</b></a> — Futuristic dashboard / HUD interface build.<br/>
+  <a href="https://github.com/4waiz/bridge-jarvis"><b>Bridge Jarvis</b></a> — Assistant / Jarvis-style automation project.<br/>
+  <a href="https://github.com/4waiz/planner"><b>Planner</b></a> — Planning tool / productivity system experiment.<br/>
+  <a href="https://github.com/4waiz/bridge-ppt"><b>Bridge PPT</b></a> — Presentation / deck generation helper project.<br/>
+  <a href="https://github.com/4waiz/deploy"><b>Deploy</b></a> — Deployment workflow / DevOps experiment.<br/>
+  <a href="https://github.com/4waiz/agents"><b>Agents</b></a> — AI agent experimentation workspace.<br/>
+  <a href="https://github.com/4waiz/LPM"><b>LPM</b></a> — Landing page / product module project.<br/>
+  <a href="https://github.com/4waiz/qr-bridge"><b>QR Bridge</b></a> — QR-based utility / linking tool.<br/>
+  <a href="https://github.com/4waiz/mobile-mapit"><b>Mobile Mapit</b></a> — Mobile mapping / location project.<br/>
+  <a href="https://github.com/4waiz/mapit"><b>Mapit</b></a> — Mapping and location-based web project.<br/>
+</p>
+
+---
+
+<h2 align="center">🧪 Project DNA</h2>
+
+<table align="center">
+  <tr>
+    <td><b>Build style</b></td>
+    <td>Fast prototypes, clean UI, backend logic, deployment, dashboards, and product thinking.</td>
+  </tr>
+  <tr>
+    <td><b>AI style</b></td>
+    <td>Practical AI: RAG, classification, triage, automation, document intelligence, copilots, and workflow agents.</td>
+  </tr>
+  <tr>
+    <td><b>Engineering style</b></td>
+    <td>Readable code, reusable architecture, secure defaults, deployment-ready thinking, and human review.</td>
+  </tr>
+  <tr>
+    <td><b>Product style</b></td>
+    <td>I like turning messy real-world workflows into simple, usable systems.</td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🏆 Competition Energy</h2>
+
+<p align="center">
+  <b>17× Competition Winner</b> across AI, software, robotics, game development, innovation, and hackathon-style product builds.
+</p>
+
+<p align="center">
+  Some builds started as hackathon ideas. Some turned into real product directions. I care about making projects that can survive after demo day.
+</p>
 
 ---
 
@@ -196,28 +366,52 @@
 
 ---
 
-<h2 align="center">🔗 Let’s Connect</h2>
+<h2 align="center">🧩 Featured Repo Map</h2>
 
-<p align="center">
-  <a href="https://awaizahmed.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/awaiz-ahmed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="http://www.fiverr.com/s/XLwgRW0" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/4waaiz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+```txt
+Kanban Studios Ecosystem
+├── kanban
+├── kanban-staff
+├── kanban-agents
+├── kanban-tools
+├── bridge-workspace
+└── bridge-ai
 
----
+AI / ML / RAG
+├── SIC-AI-Classification
+├── AI-Triage
+├── CiteGuard-RAG
+├── Audience-Lens
+├── MNIST-dataset
+├── nasa-meteor-project
+└── Hackathon-Evaluator
 
-<p align="center">✨ Building code that <i>actually</i> works, and looks good doing it ✨</p>
+Robotics / Industry / IoT
+├── industry5.0
+├── ros2_ws1
+├── RPi-5-ASRS
+├── ASRS_WS
+├── SLF
+├── fleet-console
+└── sec-hmi
 
-<!-- BOTTOM BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient" />
-</p>
+Hackathon / Product Builds
+├── DeedFlow
+├── starks-mvp
+├── Raa-i
+├── BridgeLabAI
+├── Tamkeen-Tutor
+├── Mizan
+├── Shaheen
+└── BRIDGE-SPOT-AI
+
+Web / Tools / Experiments
+├── Bridgified
+├── BridgePilot
+├── BridgeVault
+├── Bridge-scan
+├── ScaleSouk
+├── SooqRoot
+├── certificate-generator
+├── qr-bridge
+└── mapit
