@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="assets/banner-awaiz-future.png" width="100%" alt="Awaiz Ahmed — Software Engineer at EDGE, Global AI Delegate, AI/ML, MLOps, robotics, Industry 5.0 and 19-time competition winner" />
+<img src="banner-awaiz-future.png" width="100%" alt="Awaiz Ahmed — Software Engineer at EDGE, Global AI Delegate, AI/ML, MLOps, robotics, Industry 5.0 and 19-time competition winner" />
 
 <h3>Software Engineer @ EDGE — I build AI, automation and Industry 5.0 systems that work beyond the demo.</h3>
 
