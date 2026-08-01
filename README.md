@@ -1,11 +1,14 @@
 <!-- ──────────────────────────────────────────────────────────────── -->
+
 <!--  Awaiz Ahmed · GitHub Profile README                            -->
+
 <!--  Profile repo: 4waiz/4waiz                                     -->
+
 <!-- ──────────────────────────────────────────────────────────────── -->
 
 <div align="center">
 
-<img src="banner-awaiz-future.png" width="100%" alt="Awaiz Ahmed — Software Engineer at EDGE, Global AI Delegate, AI/ML, MLOps, robotics, Industry 5.0 and 19-time competition winner" />
+<img src="https://github.com/user-attachments/assets/c7937f5c-34b6-4502-8ef3-3b37799534c3" width="100%" alt="Awaiz Ahmed — Software Engineer at EDGE, Global AI Delegate, AI/ML, MLOps, robotics, Industry 5.0 and 19-time competition winner" />
 
 <h3>Software Engineer @ EDGE — I build AI, automation and Industry 5.0 systems that work beyond the demo.</h3>
 
@@ -15,10 +18,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/awaizahmed/"><img src="https://img.shields.io/badge/LinkedIn-Awaiz%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:awaiz42ad@gmail.com"><img src="https://img.shields.io/badge/Email-awaiz42ad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://awaizahmed.com"><img src="https://img.shields.io/badge/Portfolio-awaizahmed.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/4waiz"><img src="https://img.shields.io/badge/GitHub-4waiz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/awaizahmed/"><img src="https://img.shields.io/badge/LinkedIn-Awaiz%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:awaiz42ad@gmail.com"><img src="https://img.shields.io/badge/Email-awaiz42ad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://awaizahmed.com"><img src="https://img.shields.io/badge/Portfolio-awaizahmed.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a><a href="https://github.com/4waiz"><img src="https://img.shields.io/badge/GitHub-4waiz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
@@ -42,40 +42,63 @@
 
 <br/>
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🧭 About Me
+🧭 About Me
 
 I'm a software engineer and builder based in Abu Dhabi. I work across the complete engineering lifecycle — understanding a real operational problem, designing the system, building the AI and backend layers, creating the interface, integrating hardware or cloud services, and deploying something people can actually use.
 
-- 🏢 **Software Engineer @ EDGE** — designing, developing and maintaining software for intelligent automation and Industry 5.0 transformation.
-- 🌍 **Global AI Delegate — Global Alliance for Artificial Intelligence** — representing AI in the UAE and supporting responsible, human-centred AI across government, industry, academia and society.
-- 🇦🇪 **UAE Ambassador @ Takumi** — supporting community representation and technology ecosystem engagement in the UAE.
-- 🧠 **Founder & Builder @ Kanban Studios** — creating AI-assisted, human-reviewed software products, internal operating systems and automation platforms.
-- 🤖 My core areas are **AI/ML, MLOps, RAG, intelligent automation, robotics, full-stack engineering, cloud infrastructure and data systems**.
-- 🎓 Studying software engineering through **Al Ain University** and **42 Abu Dhabi**, with additional work in C programming, cybersecurity and applied computer science.
-- 🏆 **19× competition winner** across AI, software, robotics, innovation, game development and product-building challenges.
+🏢 Software Engineer @ EDGE — designing, developing and maintaining software for intelligent automation and Industry 5.0 transformation.
 
-## 🛠️ What I Build
+🌍 Global AI Delegate — Global Alliance for Artificial Intelligence — representing AI in the UAE and supporting responsible, human-centred AI across government, industry, academia and society.
 
-| Area | What I deliver |
-|---|---|
-| 🤖 **AI & Agentic Systems** | RAG applications, classification and triage systems, document intelligence, workflow agents, copilots and evaluation pipelines |
-| ⚙️ **Intelligent Automation** | Internal operating systems, approval flows, dashboards, workflow orchestration, human-in-the-loop automation and business process tools |
-| 🏭 **Industry 5.0 & Robotics** | ASRS concepts, HMIs, ROS2 workspaces, fleet interfaces, edge/IoT integrations and robot-focused software |
-| 🌐 **Full-Stack Products** | Next.js and React interfaces, API services, authentication, databases, admin panels, cloud deployment and observability |
-| ☁️ **Cloud & MLOps** | Docker, Kubernetes, CI/CD, Linux, cloud platforms, model-serving workflows and production-oriented AI infrastructure |
-| 📊 **Data & Decision Systems** | Analytics dashboards, structured prediction, traceability, scoring, evaluation and decision-support applications |
+🇦🇪 UAE Ambassador @ Takumi — supporting community representation and technology ecosystem engagement in the UAE.
 
-## 🧰 Tech Toolbox
+🧠 Founder & Builder @ Kanban Studios — creating AI-assisted, human-reviewed software products, internal operating systems and automation platforms.
+
+🤖 My core areas are AI/ML, MLOps, RAG, intelligent automation, robotics, full-stack engineering, cloud infrastructure and data systems.
+
+🎓 Studying software engineering through Al Ain University and 42 Abu Dhabi, with additional work in C programming, cybersecurity and applied computer science.
+
+🏆 19× competition winner across AI, software, robotics, innovation, game development and product-building challenges.
+
+🛠️ What I Build
+
+Area
+
+What I deliver
+
+🤖 AI & Agentic Systems
+
+RAG applications, classification and triage systems, document intelligence, workflow agents, copilots and evaluation pipelines
+
+⚙️ Intelligent Automation
+
+Internal operating systems, approval flows, dashboards, workflow orchestration, human-in-the-loop automation and business process tools
+
+🏭 Industry 5.0 & Robotics
+
+ASRS concepts, HMIs, ROS2 workspaces, fleet interfaces, edge/IoT integrations and robot-focused software
+
+🌐 Full-Stack Products
+
+Next.js and React interfaces, API services, authentication, databases, admin panels, cloud deployment and observability
+
+☁️ Cloud & MLOps
+
+Docker, Kubernetes, CI/CD, Linux, cloud platforms, model-serving workflows and production-oriented AI infrastructure
+
+📊 Data & Decision Systems
+
+Analytics dashboards, structured prediction, traceability, scoring, evaluation and decision-support applications
+
+🧰 Tech Toolbox
 
 <div align="center">
 
-**Languages**
+Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,bash&theme=dark" alt="Programming languages" />
 
-**AI / ML / Data**
+AI / ML / Data
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI and ML tools" />
 
@@ -88,143 +111,251 @@ I'm a software engineer and builder based in Abu Dhabi. I work across the comple
 <img src="https://img.shields.io/badge/Computer%20Vision-0F766E?style=flat-square" alt="Computer Vision" />
 <img src="https://img.shields.io/badge/MLOps-7C3AED?style=flat-square" alt="MLOps" />
 
-**Frontend / Product**
+Frontend / Product
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,svelte,threejs,figma&theme=dark" alt="Frontend and design tools" />
 
-**Backend / Data Platforms**
+Backend / Data Platforms
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mongodb,supabase,firebase&theme=dark" alt="Backend and database tools" />
 
-**Cloud / DevOps / Systems**
+Cloud / DevOps / Systems
 
 <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,githubactions,linux,git,github&theme=dark" alt="Cloud and DevOps tools" />
 
-**Robotics / Engineering**
+Robotics / Engineering
 
 <img src="https://skillicons.dev/icons?i=ros,raspberrypi,unity,unreal&theme=dark" alt="Robotics and engineering tools" />
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+🎯 Current Focus
 
-## 🎯 Current Focus
+🏢 Building and maintaining intelligent automation software at EDGE, with an emphasis on reliable engineering, operational usability and Industry 5.0 transformation.
 
-- 🏢 Building and maintaining **intelligent automation software at EDGE**, with an emphasis on reliable engineering, operational usability and Industry 5.0 transformation.
-- 🧠 Expanding **Kanban Studios** into a stronger product ecosystem spanning Staff OS, supervised AI agents, business tools, automation workflows and secure internal systems.
-- 🤖 Developing practical **RAG, AI-agent, classification, computer-vision and workflow-automation systems** that include human review and traceability.
-- 🏭 Connecting software with the physical world through **robotics, ROS2, ASRS, fleet dashboards, edge devices and industrial HMIs**.
-- 🌍 Supporting responsible AI collaboration through the **Global Alliance for Artificial Intelligence** and technology-community engagement through **Takumi**.
+🧠 Expanding Kanban Studios into a stronger product ecosystem spanning Staff OS, supervised AI agents, business tools, automation workflows and secure internal systems.
 
-## 💼 Experience & Leadership
+🤖 Developing practical RAG, AI-agent, classification, computer-vision and workflow-automation systems that include human review and traceability.
 
-### 🏢 EDGE — Software Engineer
-**Nov 2025 – Present · Abu Dhabi · On-site**
+🏭 Connecting software with the physical world through robotics, ROS2, ASRS, fleet dashboards, edge devices and industrial HMIs.
+
+🌍 Supporting responsible AI collaboration through the Global Alliance for Artificial Intelligence and technology-community engagement through Takumi.
+
+💼 Experience & Leadership
+
+🏢 EDGE — Software Engineer
+
+Nov 2025 – Present · Abu Dhabi · On-site
 
 Leading and contributing to software design, development and code maintenance for intelligent automation systems, with a focus on Industry 5.0, digital transformation, AI-enabled operations and production-quality engineering.
 
-### 🌍 Global Alliance for Artificial Intelligence — Global AI Delegate
-**Jun 2026 – Present · United Arab Emirates**
+🌍 Global Alliance for Artificial Intelligence — Global AI Delegate
+
+Jun 2026 – Present · United Arab Emirates
 
 Representing AI in the UAE by promoting responsible, human-centred adoption across government, industry, academia and society. Supporting collaboration, capacity-building and AI initiatives connected to resilience, sustainability and public value.
 
-### 🇦🇪 Takumi — UAE Ambassador
-**2026 – Present**
+🇦🇪 Takumi — UAE Ambassador
+
+2026 – Present
 
 Representing Takumi in the UAE and supporting community, innovation and ecosystem engagement.
 
-### ⚙️ EDGE BRIDGE — Intelligent Systems & Automation Trainee
-**Aug 2025 – Nov 2025 · United Arab Emirates · On-site**
+⚙️ EDGE BRIDGE — Intelligent Systems & Automation Trainee
+
+Aug 2025 – Nov 2025 · United Arab Emirates · On-site
 
 Worked across intelligent automation, robotics, digital-factory concepts, ASRS systems, HMIs, data interfaces and software prototypes before progressing into a full-time software engineering role.
 
-### 🧠 Kanban Studios — Founder & Builder
-**Ongoing**
+🧠 Kanban Studios — Founder & Builder
 
-Building an AI software and automation ecosystem around one principle: **AI-assisted, human-reviewed engineering that remains understandable, secure and reliable when used in the real world.**
+Ongoing
 
-### 🎓 Education
+Building an AI software and automation ecosystem around one principle: AI-assisted, human-reviewed engineering that remains understandable, secure and reliable when used in the real world.
 
-- **BSc Software Engineering** — Al Ain University
-- **Software Development** — 42 Abu Dhabi
-- **Level 4 Micro-Credential in C Programming** — UAE Ministry of Education, Competent with Distinction
-- **CS50x & Cybersecurity learning track** — Harvard / self-directed study
+🎓 Education
 
-<img src="assets/divider.svg" width="100%" alt="" />
+BSc Software Engineering — Al Ain University
 
-## 🏗️ Kanban Studios Ecosystem
+Software Development — 42 Abu Dhabi
+
+Level 4 Micro-Credential in C Programming — UAE Ministry of Education, Competent with Distinction
+
+CS50x & Cybersecurity learning track — Harvard / self-directed study
+
+🏗️ Kanban Studios Ecosystem
 
 Kanban Studios is the product and engineering ecosystem I am building around secure software, AI-assisted delivery and practical automation.
 
-| Product | Purpose |
-|---|---|
-| **Kanban Staff OS** | Internal company operating system for people, KPIs, tasks, projects, sales, documents and execution |
-| **Kanban Agents** | Supervised multi-agent workspace with human review, project visibility and operational control |
-| **Kanban Tools** | Useful generators, dashboards, automation helpers and internal workflow accelerators |
-| **Kanban OpsCore** | SME operating-system concept that transforms scattered WhatsApp, Excel and manual follow-ups into structured workflows |
-| **Kanban Labs** | Productization path for turning prototypes, competition builds and abandoned MVPs into maintainable products |
-| **BRIDGE Workspace / BRIDGE AI** | Workspace, productivity and AI experimentation foundations for team execution and intelligent assistance |
+Product
+
+Purpose
+
+Kanban Staff OS
+
+Internal company operating system for people, KPIs, tasks, projects, sales, documents and execution
+
+Kanban Agents
+
+Supervised multi-agent workspace with human review, project visibility and operational control
+
+Kanban Tools
+
+Useful generators, dashboards, automation helpers and internal workflow accelerators
+
+Kanban OpsCore
+
+SME operating-system concept that transforms scattered WhatsApp, Excel and manual follow-ups into structured workflows
+
+Kanban Labs
+
+Productization path for turning prototypes, competition builds and abandoned MVPs into maintainable products
+
+BRIDGE Workspace / BRIDGE AI
+
+Workspace, productivity and AI experimentation foundations for team execution and intelligent assistance
 
 <div align="center">
 
-<a href="https://kanbanstudios.ae"><img src="https://img.shields.io/badge/Kanban%20Studios-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kanban Studios website" /></a>
-<a href="https://github.com/4waiz/kanban-staff"><img src="https://img.shields.io/badge/Kanban%20Staff%20OS-Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Kanban Staff OS repository" /></a>
-<a href="https://github.com/4waiz/kanban-agents"><img src="https://img.shields.io/badge/Kanban%20Agents-Repository-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="Kanban Agents repository" /></a>
+<a href="https://kanbanstudios.ae"><img src="https://img.shields.io/badge/Kanban%20Studios-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kanban Studios website" /></a><a href="https://github.com/4waiz/kanban-staff"><img src="https://img.shields.io/badge/Kanban%20Staff%20OS-Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Kanban Staff OS repository" /></a><a href="https://github.com/4waiz/kanban-agents"><img src="https://img.shields.io/badge/Kanban%20Agents-Repository-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="Kanban Agents repository" /></a>
 
 </div>
 
-## 🚀 Selected Builds
+🚀 Selected Builds
 
-### 🧠 AI / ML / RAG
+🧠 AI / ML / RAG
 
-| Project | Focus |
-|---|---|
-| [**CiteGuard RAG**](https://github.com/4waiz/CiteGuard-RAG) | Source-grounded retrieval and citation-safe AI answers |
-| [**AI Triage**](https://github.com/4waiz/AI-Triage) | Intelligent sorting, prioritization and routing of cases or issues |
-| [**SIC AI Classification**](https://github.com/4waiz/SIC-AI-Classification) | Structured prediction and model-backed classification workflows |
-| [**Audience Lens**](https://github.com/4waiz/Audience-Lens) | AI-assisted audience and insight analysis |
-| [**Hackathon Evaluator**](https://github.com/4waiz/Hackathon-Evaluator) | AI-supported evaluation and scoring workflows |
-| [**TracePilot**](https://github.com/4waiz/TracePilot) | Traceability-focused system for decisions, workflows and activity |
+Project
 
-### 🏭 Robotics / Industry 5.0 / IoT
+Focus
 
-| Project | Focus |
-|---|---|
-| [**BRIDGE SPOT AI**](https://github.com/4waiz/BRIDGE-SPOT-AI) | AI-powered robotics detection and analysis concepts |
-| [**ROS2 Workspace**](https://github.com/4waiz/ros2_ws1) | Robotics development and ROS2 experimentation |
-| [**RPi-5 ASRS**](https://github.com/4waiz/RPi-5-ASRS) | Raspberry Pi-based automated storage and retrieval system |
-| [**ASRS Workspace**](https://github.com/4waiz/ASRS_WS) | Warehouse automation and robotics workspace |
-| [**Fleet Console**](https://github.com/4waiz/fleet-console) | Fleet control, monitoring and operational dashboard concepts |
-| [**SEC HMI**](https://github.com/4waiz/sec-hmi) | Secure human-machine interface direction for industrial systems |
+CiteGuard RAG
 
-### 🏆 Competition / Innovation Builds
+Source-grounded retrieval and citation-safe AI answers
 
-| Project | Focus |
-|---|---|
-| [**Starkz AI**](https://github.com/4waiz/starks-mvp) | AI safety system for outdoor workers and extreme-heat risk |
-| [**Raa'i**](https://github.com/4waiz/Raa-i) | Arabic-first rural and camel-farm companion concept |
-| [**BridgeLab AI**](https://github.com/4waiz/BridgeLabAI) | Bilingual STEM and AI learning-lab coach |
-| [**DeedFlow**](https://github.com/4waiz/DeedFlow) | Structured digital workflows and process execution |
-| [**Tamkeen Tutor**](https://github.com/4waiz/Tamkeen-Tutor) | Accessible education and tutoring workflows |
-| [**SooqRoot**](https://github.com/4waiz/SooqRoot) | Marketplace and commerce-oriented innovation build |
-| [**Mizan**](https://github.com/4waiz/Mizan) | Sustainability and utility-focused product concept |
-| [**Shaheen**](https://github.com/4waiz/Shaheen) | UAE-inspired product and technology build |
+AI Triage
 
-### 🌐 Products / Platforms / Developer Tools
+Intelligent sorting, prioritization and routing of cases or issues
 
-| Project | Focus |
-|---|---|
-| [**Awaiz Portfolio**](https://github.com/4waiz/awaizportfolio) | Personal portfolio and professional identity hub |
-| [**BridgePilot**](https://github.com/4waiz/BridgePilot) | Product-interface and workflow experiment |
-| [**BridgeVault**](https://github.com/4waiz/BridgeVault) | Secure storage and vault-themed product concept |
-| [**Bridge Scan**](https://github.com/4waiz/Bridge-scan) | Scanning, document and workflow automation |
-| [**Jarvis HUD**](https://github.com/4waiz/jarvis-hud) | Futuristic dashboard and assistant interface |
-| [**Certificate Generator**](https://github.com/4waiz/certificate-generator) | Automated certificate-generation workflows |
-| [**Mapit**](https://github.com/4waiz/mapit) | Mapping and location-based web system |
+SIC AI Classification
 
-<img src="assets/divider.svg" width="100%" alt="" />
+Structured prediction and model-backed classification workflows
 
-## 🏆 Competition Record
+Audience Lens
+
+AI-assisted audience and insight analysis
+
+Hackathon Evaluator
+
+AI-supported evaluation and scoring workflows
+
+TracePilot
+
+Traceability-focused system for decisions, workflows and activity
+
+🏭 Robotics / Industry 5.0 / IoT
+
+Project
+
+Focus
+
+BRIDGE SPOT AI
+
+AI-powered robotics detection and analysis concepts
+
+ROS2 Workspace
+
+Robotics development and ROS2 experimentation
+
+RPi-5 ASRS
+
+Raspberry Pi-based automated storage and retrieval system
+
+ASRS Workspace
+
+Warehouse automation and robotics workspace
+
+Fleet Console
+
+Fleet control, monitoring and operational dashboard concepts
+
+SEC HMI
+
+Secure human-machine interface direction for industrial systems
+
+🏆 Competition / Innovation Builds
+
+Project
+
+Focus
+
+Starkz AI
+
+AI safety system for outdoor workers and extreme-heat risk
+
+Raa'i
+
+Arabic-first rural and camel-farm companion concept
+
+BridgeLab AI
+
+Bilingual STEM and AI learning-lab coach
+
+DeedFlow
+
+Structured digital workflows and process execution
+
+Tamkeen Tutor
+
+Accessible education and tutoring workflows
+
+SooqRoot
+
+Marketplace and commerce-oriented innovation build
+
+Mizan
+
+Sustainability and utility-focused product concept
+
+Shaheen
+
+UAE-inspired product and technology build
+
+🌐 Products / Platforms / Developer Tools
+
+Project
+
+Focus
+
+Awaiz Portfolio
+
+Personal portfolio and professional identity hub
+
+BridgePilot
+
+Product-interface and workflow experiment
+
+BridgeVault
+
+Secure storage and vault-themed product concept
+
+Bridge Scan
+
+Scanning, document and workflow automation
+
+Jarvis HUD
+
+Futuristic dashboard and assistant interface
+
+Certificate Generator
+
+Automated certificate-generation workflows
+
+Mapit
+
+Mapping and location-based web system
+
+🏆 Competition Record
 
 <div align="center">
 
@@ -235,56 +366,70 @@ Kanban Studios is the product and engineering ecosystem I am building around sec
 
 My competition work spans AI, software engineering, robotics, game development, innovation and rapid product delivery. The goal is not only to perform well on demo day — it is to turn strong prototypes into reusable systems, repositories and longer-term product directions.
 
-## 🧪 Engineering DNA
+🧪 Engineering DNA
 
-| Principle | How I work |
-|---|---|
-| **Build end-to-end** | UI, backend, AI, data, automation, deployment and the operational workflow around the product |
-| **Human review matters** | AI should accelerate decisions without hiding responsibility or removing necessary oversight |
-| **Secure by default** | Authentication, role control, validation, traceability and deployment concerns belong in the architecture |
-| **Design for operations** | Dashboards and workflows must remain understandable for the people who use and maintain them |
-| **Ship, learn, improve** | Build quickly, test with real constraints, document decisions and keep improving after the first release |
+Principle
 
-## 📊 GitHub Signals
+How I work
+
+Build end-to-end
+
+UI, backend, AI, data, automation, deployment and the operational workflow around the product
+
+Human review matters
+
+AI should accelerate decisions without hiding responsibility or removing necessary oversight
+
+Secure by default
+
+Authentication, role control, validation, traceability and deployment concerns belong in the architecture
+
+Design for operations
+
+Dashboards and workflows must remain understandable for the people who use and maintain them
+
+Ship, learn, improve
+
+Build quickly, test with real constraints, document decisions and keep improving after the first release
+
+📊 GitHub Signals
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4waiz&theme=tokyonight" height="185" alt="GitHub statistics" />
-<img src="https://streak-stats.demolab.com?user=4waiz&theme=tokyonight&hide_border=true&background=1A1B26" height="185" alt="GitHub contribution streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=4waiz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Awaiz Ahmed GitHub statistics" />
+<img width="49%" src="https://streak-stats.demolab.com?user=4waiz&theme=tokyonight&hide_border=true&background=1A1B26" alt="Awaiz Ahmed GitHub contribution streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4waiz&theme=tokyonight" height="185" alt="Repositories by language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4waiz&theme=tokyonight" height="185" alt="Commits by language" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4waiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most-used languages across public repositories" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=4waiz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=3" alt="GitHub profile trophies" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4waiz&theme=tokyonight" width="94%" alt="GitHub profile summary" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4waiz&theme=tokyo-night&hide_border=true&area=true" width="94%" alt="GitHub contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4waiz&theme=tokyo-night&hide_border=true&area=true&custom_title=Awaiz%20Ahmed%27s%20Contribution%20Graph" width="96%" alt="Awaiz Ahmed contribution graph" />
 
 <br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4waiz/4waiz/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4waiz/4waiz/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/4waiz/4waiz/output/github-contribution-grid-snake-dark.svg" width="94%" alt="GitHub contribution snake" />
+  <img src="https://raw.githubusercontent.com/4waiz/4waiz/output/github-contribution-grid-snake-dark.svg" width="96%" alt="GitHub contribution snake animation" />
 </picture>
 
 </div>
 
-## ⚡ Recent Activity
+The snake animation appears after the GitHub Actions workflow has generated the files in the output branch.
+
+⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 <sub>Automatically refreshed through the included GitHub Actions workflow.</sub>
 
-## 🌳 Featured Repository Map
+🌳 Featured Repository Map
 
-```text
 4waiz · GitHub Ecosystem
 │
 ├── 🧠 Kanban Studios
@@ -329,25 +474,19 @@ My competition work spans AI, software engineering, robotics, game development, 
     ├── jarvis-hud
     ├── certificate-generator
     └── mapit
-```
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🤝 Let's Build Something Useful
+🤝 Let's Build Something Useful
 
 I'm open to conversations with engineers, researchers, founders, innovation teams and collaborators working on AI, intelligent automation, robotics, Industry 5.0, cloud systems and products that need to move from concept to real deployment.
 
 <div align="center">
 
-<a href="mailto:awaiz42ad@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-awaiz42ad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Awaiz" /></a>
-<a href="https://www.linkedin.com/in/awaizahmed/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="https://github.com/4waiz"><img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
-<a href="https://awaizahmed.com"><img src="https://img.shields.io/badge/Portfolio-awaizahmed.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Awaiz portfolio" /></a>
+<a href="mailto:awaiz42ad@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-awaiz42ad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Awaiz" /></a><a href="https://www.linkedin.com/in/awaizahmed/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a><a href="https://github.com/4waiz"><img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a><a href="https://awaizahmed.com"><img src="https://img.shields.io/badge/Portfolio-awaizahmed.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Awaiz portfolio" /></a>
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="Build intelligently, ship reliably, keep learning" />
+<h3>Build intelligently · Ship reliably · Keep learning</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,45:2563eb,100:7c3aed" width="100%" alt="Profile footer" />
 
 </div>
-**<img width="2172" height="724" alt="ChatGPT Image Aug 1, 2026, 09_36_31 PM" src="https://github.com/user-attachments/assets/c7937f5c-34b6-4502-8ef3-3b37799534c3" />
-**
