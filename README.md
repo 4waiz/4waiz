@@ -17,7 +17,7 @@
 
 <a href="https://www.linkedin.com/in/awaizahmed/"><img src="https://img.shields.io/badge/LinkedIn-Awaiz%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:awaiz42ad@gmail.com"><img src="https://img.shields.io/badge/Email-awaiz42ad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://awaizahmed.com"><img src="https://img.shields.io/badge/Portfolio-awaizahmed.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://kanbanstudios.com"><img src="https://img.shields.io/badge/Portfolio-kanbanstudios.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://github.com/4waiz"><img src="https://img.shields.io/badge/GitHub-4waiz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
