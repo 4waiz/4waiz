@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/4waiz/4waiz/main/awaiz.gif" width="100%" alt="Awaiz Ahmed — Software Engineer at EDGE, Global AI Delegate, AI/ML, MLOps, robotics, Industry 5.0 and 19-time competition winner" />
+<img src="https://raw.githubusercontent.com/4waiz/4waiz/main/awaiz.gif" width="100%" alt="Awaiz Ahmed - Software Engineer at EDGE, Global AI Delegate, AI/ML, MLOps, robotics, Industry 5.0 and 19-time competition winner" />
 
-<h3>Software Engineer @ EDGE — I build AI, automation and Industry 5.0 systems that work beyond the demo.</h3>
+<h3>Software Engineer @ EDGE - I build AI, automation and Industry 5.0 systems that work beyond the demo.</h3>
 
-<p>AI/ML & MLOps · intelligent automation · robotics · full-stack engineering · cloud & DevOps · data analytics — designed end-to-end, deployed and maintainable.</p>
+<p>AI/ML & MLOps · intelligent automation · robotics · full-stack engineering · cloud & DevOps · data analytics - designed end-to-end, deployed and maintainable.</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=760&lines=Software+Engineer+%40+EDGE;Global+AI+Delegate+%C2%B7+UAE;Founder+%26+Builder+%40+Kanban+Studios;AI%2FML+%C2%B7+MLOps+%C2%B7+RAG+%C2%B7+Automation;Robotics+%C2%B7+Cloud+%C2%B7+Industry+5.0;19%C3%97+Competition+Winner+%F0%9F%8F%86" alt="Typing introduction" />
 
@@ -24,12 +24,12 @@
 
 ## 🧭 About Me
 
-I'm a software engineer and builder based in Abu Dhabi. I work across the complete engineering lifecycle — understanding a real operational problem, designing the system, building the AI and backend layers, creating the interface, integrating hardware or cloud services, and deploying something people can actually use.
+I'm a software engineer and builder based in Abu Dhabi. I work across the complete engineering lifecycle - understanding a real operational problem, designing the system, building the AI and backend layers, creating the interface, integrating hardware or cloud services, and deploying something people can actually use.
 
-- 🏢 **Software Engineer @ EDGE** — designing, developing and maintaining software for intelligent automation and Industry 5.0 transformation.
-- 🌍 **Global AI Delegate — Global Alliance for Artificial Intelligence** — representing AI in the UAE and supporting responsible, human-centred AI across government, industry, academia and society.
-- 🇦🇪 **UAE Ambassador @ Takumi** — supporting community representation and technology ecosystem engagement in the UAE.
-- 🧠 **Founder & Builder @ Kanban Studios** — creating AI-assisted, human-reviewed software products, internal operating systems and automation platforms.
+- 🏢 **Software Engineer @ EDGE** - designing, developing and maintaining software for intelligent automation and Industry 5.0 transformation.
+- 🌍 **Global AI Delegate - Global Alliance for Artificial Intelligence** - representing AI in the UAE and supporting responsible, human-centred AI across government, industry, academia and society.
+- 🇦🇪 **UAE Ambassador @ Takumi** - supporting community representation and technology ecosystem engagement in the UAE.
+- 🧠 **Founder & Builder @ Kanban Studios** - creating AI-assisted, human-reviewed software products, internal operating systems and automation platforms.
 - 🤖 My core areas are **AI/ML, MLOps, RAG, intelligent automation, robotics, full-stack engineering, cloud infrastructure and data systems**.
 - 🎓 Studying software engineering through **Al Ain University** and **42 Abu Dhabi**, with additional work in C programming, cybersecurity and applied computer science.
 - 🏆 **19× competition winner** across AI, software, robotics, innovation, game development and product-building challenges.
@@ -96,37 +96,37 @@ I'm a software engineer and builder based in Abu Dhabi. I work across the comple
 
 ## 💼 Experience & Leadership
 
-### 🏢 EDGE — Software Engineer
+### 🏢 EDGE - Software Engineer
 **Nov 2025 – Present · Abu Dhabi · On-site**
 
 Leading and contributing to software design, development and code maintenance for intelligent automation systems, with a focus on Industry 5.0, digital transformation, AI-enabled operations and production-quality engineering.
 
-### 🌍 Global Alliance for Artificial Intelligence — Global AI Delegate
+### 🌍 Global Alliance for Artificial Intelligence - Global AI Delegate
 **Jun 2026 – Present · United Arab Emirates**
 
 Representing AI in the UAE by promoting responsible, human-centred adoption across government, industry, academia and society. Supporting collaboration, capacity-building and AI initiatives connected to resilience, sustainability and public value.
 
-### 🇦🇪 Takumi — UAE Ambassador
+### 🇦🇪 Takumi - UAE Ambassador
 **2026 – Present**
 
 Representing Takumi in the UAE and supporting community, innovation and ecosystem engagement.
 
-### ⚙️ EDGE BRIDGE — Intelligent Systems & Automation Trainee
+### ⚙️ EDGE BRIDGE - Intelligent Systems & Automation Trainee
 **Aug 2025 – Nov 2025 · United Arab Emirates · On-site**
 
 Worked across intelligent automation, robotics, digital-factory concepts, ASRS systems, HMIs, data interfaces and software prototypes before progressing into a full-time software engineering role.
 
-### 🧠 Kanban Studios — Founder & Builder
+### 🧠 Kanban Studios - Founder & Builder
 **Ongoing**
 
 Building an AI software and automation ecosystem around one principle: **AI-assisted, human-reviewed engineering that remains understandable, secure and reliable when used in the real world.**
 
 ### 🎓 Education
 
-- **BSc Software Engineering** — Al Ain University
-- **Software Development** — 42 Abu Dhabi
-- **Level 4 Micro-Credential in C Programming** — UAE Ministry of Education, Competent with Distinction
-- **CS50x & Cybersecurity learning track** — Harvard / self-directed study
+- **BSc Software Engineering** - Al Ain University
+- **Software Development** - 42 Abu Dhabi
+- **Level 4 Micro-Credential in C Programming** - UAE Ministry of Education, Competent with Distinction
+- **CS50x & Cybersecurity learning track** - Harvard / self-directed study
 
 ---
 
@@ -211,7 +211,7 @@ Kanban Studios is the product and engineering ecosystem I am building around sec
 
 </div>
 
-My competition work spans AI, software engineering, robotics, game development, innovation and rapid product delivery. The goal is not only to perform well on demo day — it is to turn strong prototypes into reusable systems, repositories and longer-term product directions.
+My competition work spans AI, software engineering, robotics, game development, innovation and rapid product delivery. The goal is not only to perform well on demo day - it is to turn strong prototypes into reusable systems, repositories and longer-term product directions.
 
 ## 🧪 Engineering DNA
 
