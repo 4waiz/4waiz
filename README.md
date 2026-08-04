@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://github.com/4waiz/4waiz/blob/main/gif" width="100%" alt="Awaiz Ahmed — Software Engineer at EDGE, Global AI Delegate, AI/ML, MLOps, robotics, Industry 5.0 and 19-time competition winner" />
+<img src="https://raw.githubusercontent.com/4waiz/4waiz/main/awaiz.gif" width="100%" alt="Awaiz Ahmed — Software Engineer at EDGE, Global AI Delegate, AI/ML, MLOps, robotics, Industry 5.0 and 19-time competition winner" />
 
 <h3>Software Engineer @ EDGE — I build AI, automation and Industry 5.0 systems that work beyond the demo.</h3>
 
