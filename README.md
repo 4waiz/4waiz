@@ -18,27 +18,11 @@
 <a href="https://www.linkedin.com/in/awaizahmed/"><img src="https://img.shields.io/badge/LinkedIn-Awaiz%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:awaiz42ad@gmail.com"><img src="https://img.shields.io/badge/Email-awaiz42ad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://kanbanstudios.com"><img src="https://img.shields.io/badge/Portfolio-kanbanstudios.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://github.com/4waiz"><img src="https://img.shields.io/badge/GitHub-4waiz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=4waiz&style=flat-square&color=7c3aed&label=Profile+Views" alt="Profile views" />
 <a href="https://github.com/4waiz?tab=followers"><img src="https://img.shields.io/github/followers/4waiz?style=flat-square&logo=github&label=Followers&color=1f6feb" alt="Followers" /></a>
 <img src="https://img.shields.io/badge/Location-Abu%20Dhabi%2C%20UAE-2ea043?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Software%20Engineer%20%40%20EDGE-F97316?style=flat-square" alt="Software Engineer at EDGE" />
-<img src="https://img.shields.io/badge/Global%20AI%20Delegate-2563EB?style=flat-square" alt="Global AI Delegate" />
-<img src="https://img.shields.io/badge/UAE%20Ambassador%20%40%20Takumi-0EA5E9?style=flat-square" alt="Takumi UAE Ambassador" />
-<img src="https://img.shields.io/badge/AI%20%2F%20ML%20%26%20MLOps-7C3AED?style=flat-square" alt="AI ML and MLOps" />
-<img src="https://img.shields.io/badge/Full--Stack%20Engineering-2EA043?style=flat-square" alt="Full-stack engineering" />
-<img src="https://img.shields.io/badge/Robotics%20%26%20Industry%205.0-DB2777?style=flat-square" alt="Robotics and Industry 5.0" />
-<img src="https://img.shields.io/badge/19%C3%97%20Competition%20Winner-CA8A04?style=flat-square" alt="19-time competition winner" />
-
-</div>
 
 <br/>
 
