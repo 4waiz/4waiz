@@ -20,12 +20,6 @@
 <a href="https://kanbanstudios.com"><img src="https://img.shields.io/badge/Portfolio-kanbanstudios.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=4waiz&style=flat-square&color=7c3aed&label=Profile+Views" alt="Profile views" />
-<a href="https://github.com/4waiz?tab=followers"><img src="https://img.shields.io/github/followers/4waiz?style=flat-square&logo=github&label=Followers&color=1f6feb" alt="Followers" /></a>
-<img src="https://img.shields.io/badge/Location-Abu%20Dhabi%2C%20UAE-2ea043?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-
-<br/>
-
 ---
 
 ## 🧭 About Me
