@@ -5,13 +5,15 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/4waiz/4waiz/main/awaiz.gif" width="100%" alt="Awaiz Ahmed - Software Engineer at EDGE, Global AI Delegate, AI/ML, MLOps, robotics, Industry 5.0 and 19-time competition winner" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4waiz/4waiz/main/assets/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4waiz/4waiz/main/assets/light.svg" />
+  <img src="https://raw.githubusercontent.com/4waiz/4waiz/main/assets/dark.svg" width="100%" alt="Awaiz Ahmed - Software Engineer at EDGE, Global AI Delegate, AI/ML, MLOps, robotics, Industry 5.0 and 19-time competition winner" />
+</picture>
 
 <h3>Software Engineer @ EDGE - I build AI, automation and Industry 5.0 systems that work beyond the demo.</h3>
 
 <p>AI/ML & MLOps · intelligent automation · robotics · full-stack engineering · cloud & DevOps · data analytics - designed end-to-end, deployed and maintainable.</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=760&lines=Software+Engineer+%40+EDGE;Global+AI+Delegate+%C2%B7+UAE;Founder+%26+Builder+%40+Kanban+Studios;AI%2FML+%C2%B7+MLOps+%C2%B7+RAG+%C2%B7+Automation;Robotics+%C2%B7+Cloud+%C2%B7+Industry+5.0;19%C3%97+Competition+Winner+%F0%9F%8F%86" alt="Typing introduction" />
 
 <br/><br/>
 
