@@ -15,102 +15,78 @@
 
 <p>AI/ML & MLOps · intelligent automation · robotics · full-stack engineering · cloud & DevOps · data analytics - designed end-to-end, deployed and maintainable.</p>
 
-<br/><br/>
+
+
 
 <a href="https://www.linkedin.com/in/awaizahmed/"><img src="https://img.shields.io/badge/LinkedIn-Awaiz%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:awaiz42ad@gmail.com"><img src="https://img.shields.io/badge/Email-awaiz42ad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://kanbanstudios.com"><img src="https://img.shields.io/badge/Portfolio-kanbanstudios.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<br/><br/>
-
----
-
-## 🧭 About Me
-
-I'm a software engineer and builder based in Abu Dhabi. I work across the complete engineering lifecycle - understanding a real operational problem, designing the system, building the AI and backend layers, creating the interface, integrating hardware or cloud services, and deploying something people can actually use.
-
-- 🏢 **Software Engineer @ EDGE** - designing, developing and maintaining software for intelligent automation and Industry 5.0 transformation.
-- 🌍 **Global AI Delegate - Global Alliance for Artificial Intelligence** - representing AI in the UAE and supporting responsible, human-centred AI across government, industry, academia and society.
-- 🇦🇪 **UAE Ambassador @ Takumi** - supporting community representation and technology ecosystem engagement in the UAE.
-- 🧠 **Founder & Builder @ Kanban Studios** - creating AI-assisted, human-reviewed software products, internal operating systems and automation platforms.
-- 🤖 My core areas are **AI/ML, MLOps, RAG, intelligent automation, robotics, full-stack engineering, cloud infrastructure and data systems**.
-- 🎓 Studying software engineering through **Al Ain University** and **42 Abu Dhabi**, with additional work in C programming, cybersecurity and applied computer science.
-- 🏆 **19× competition winner** across AI, software, robotics, innovation, game development and product-building challenges.
+<a href="https://kanbanstudios.ae/team-kanban"><img src="https://img.shields.io/badge/My%20Portfolio-Kanban%20Studios-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My portfolio" /></a>
 
 
-## 🏗️ Kanban Studios Ecosystem
 
+🏗️ Kanban Studios Ecosystem
 Kanban Studios is the product and engineering ecosystem I am building around secure software, AI-assisted delivery and practical automation.
+Product	Purpose
+Kanban Staff OS	Internal company operating system for people, KPIs, tasks, projects, sales, documents and execution
+Kanban Agents	Supervised multi-agent workspace with human review, project visibility and operational control
+Kanban Tools	Useful generators, dashboards, automation helpers and internal workflow accelerators
+Kanban OpsCore	SME operating-system concept that transforms scattered WhatsApp, Excel and manual follow-ups into structured workflows
+Kanban Labs	Productization path for turning prototypes, competition builds and abandoned MVPs into maintainable products
+BRIDGE Workspace / BRIDGE AI	Workspace, productivity and AI experimentation foundations for team execution and intelligent assistance
 
-| Product | Purpose |
-|---|---|
-| **Kanban Staff OS** | Internal company operating system for people, KPIs, tasks, projects, sales, documents and execution |
-| **Kanban Agents** | Supervised multi-agent workspace with human review, project visibility and operational control |
-| **Kanban Tools** | Useful generators, dashboards, automation helpers and internal workflow accelerators |
-| **Kanban OpsCore** | SME operating-system concept that transforms scattered WhatsApp, Excel and manual follow-ups into structured workflows |
-| **Kanban Labs** | Productization path for turning prototypes, competition builds and abandoned MVPs into maintainable products |
-| **BRIDGE Workspace / BRIDGE AI** | Workspace, productivity and AI experimentation foundations for team execution and intelligent assistance |
 
 <div align="center">
 
 <a href="https://kanbanstudios.ae"><img src="https://img.shields.io/badge/Kanban%20Studios-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kanban Studios website" /></a>
 <a href="https://github.com/4waiz/kanban-staff"><img src="https://img.shields.io/badge/Kanban%20Staff%20OS-Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Kanban Staff OS repository" /></a>
 <a href="https://github.com/4waiz/kanban-agents"><img src="https://img.shields.io/badge/Kanban%20Agents-Repository-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="Kanban Agents repository" /></a>
-
 </div>
 
-## 🚀 Selected Builds
+🚀 Selected Builds
+🧠 AI / ML / RAG
+Project	Focus
+CiteGuard RAG	Source-grounded retrieval and citation-safe AI answers
+AI Triage	Intelligent sorting, prioritization and routing of cases or issues
+SIC AI Classification	Structured prediction and model-backed classification workflows
+Audience Lens	AI-assisted audience and insight analysis
+Hackathon Evaluator	AI-supported evaluation and scoring workflows
+TracePilot	Traceability-focused system for decisions, workflows and activity
 
-### 🧠 AI / ML / RAG
 
-| Project | Focus |
-|---|---|
-| [**CiteGuard RAG**](https://github.com/4waiz/CiteGuard-RAG) | Source-grounded retrieval and citation-safe AI answers |
-| [**AI Triage**](https://github.com/4waiz/AI-Triage) | Intelligent sorting, prioritization and routing of cases or issues |
-| [**SIC AI Classification**](https://github.com/4waiz/SIC-AI-Classification) | Structured prediction and model-backed classification workflows |
-| [**Audience Lens**](https://github.com/4waiz/Audience-Lens) | AI-assisted audience and insight analysis |
-| [**Hackathon Evaluator**](https://github.com/4waiz/Hackathon-Evaluator) | AI-supported evaluation and scoring workflows |
-| [**TracePilot**](https://github.com/4waiz/TracePilot) | Traceability-focused system for decisions, workflows and activity |
+🏭 Robotics / Industry 5.0 / IoT
+Project	Focus
+BRIDGE SPOT AI	AI-powered robotics detection and analysis concepts
+ROS2 Workspace	Robotics development and ROS2 experimentation
+RPi-5 ASRS	Raspberry Pi-based automated storage and retrieval system
+ASRS Workspace	Warehouse automation and robotics workspace
+Fleet Console	Fleet control, monitoring and operational dashboard concepts
+SEC HMI	Secure human-machine interface direction for industrial systems
 
-### 🏭 Robotics / Industry 5.0 / IoT
 
-| Project | Focus |
-|---|---|
-| [**BRIDGE SPOT AI**](https://github.com/4waiz/BRIDGE-SPOT-AI) | AI-powered robotics detection and analysis concepts |
-| [**ROS2 Workspace**](https://github.com/4waiz/ros2_ws1) | Robotics development and ROS2 experimentation |
-| [**RPi-5 ASRS**](https://github.com/4waiz/RPi-5-ASRS) | Raspberry Pi-based automated storage and retrieval system |
-| [**ASRS Workspace**](https://github.com/4waiz/ASRS_WS) | Warehouse automation and robotics workspace |
-| [**Fleet Console**](https://github.com/4waiz/fleet-console) | Fleet control, monitoring and operational dashboard concepts |
-| [**SEC HMI**](https://github.com/4waiz/sec-hmi) | Secure human-machine interface direction for industrial systems |
+🏆 Competition / Innovation Builds
+Project	Focus
+Starkz AI	AI safety system for outdoor workers and extreme-heat risk
+Raa'i	Arabic-first rural and camel-farm companion concept
+BridgeLab AI	Bilingual STEM and AI learning-lab coach
+DeedFlow	Structured digital workflows and process execution
+Tamkeen Tutor	Accessible education and tutoring workflows
+SooqRoot	Marketplace and commerce-oriented innovation build
+Mizan	Sustainability and utility-focused product concept
+Shaheen	UAE-inspired product and technology build
 
-### 🏆 Competition / Innovation Builds
 
-| Project | Focus |
-|---|---|
-| [**Starkz AI**](https://github.com/4waiz/starks-mvp) | AI safety system for outdoor workers and extreme-heat risk |
-| [**Raa'i**](https://github.com/4waiz/Raa-i) | Arabic-first rural and camel-farm companion concept |
-| [**BridgeLab AI**](https://github.com/4waiz/BridgeLabAI) | Bilingual STEM and AI learning-lab coach |
-| [**DeedFlow**](https://github.com/4waiz/DeedFlow) | Structured digital workflows and process execution |
-| [**Tamkeen Tutor**](https://github.com/4waiz/Tamkeen-Tutor) | Accessible education and tutoring workflows |
-| [**SooqRoot**](https://github.com/4waiz/SooqRoot) | Marketplace and commerce-oriented innovation build |
-| [**Mizan**](https://github.com/4waiz/Mizan) | Sustainability and utility-focused product concept |
-| [**Shaheen**](https://github.com/4waiz/Shaheen) | UAE-inspired product and technology build |
+🌐 Products / Platforms / Developer Tools
+Project	Focus
+Awaiz Portfolio	Personal portfolio and professional identity hub
+BridgePilot	Product-interface and workflow experiment
+BridgeVault	Secure storage and vault-themed product concept
+Bridge Scan	Scanning, document and workflow automation
+Jarvis HUD	Futuristic dashboard and assistant interface
+Certificate Generator	Automated certificate-generation workflows
+Mapit	Mapping and location-based web system
 
-### 🌐 Products / Platforms / Developer Tools
 
-| Project | Focus |
-|---|---|
-| [**Awaiz Portfolio**](https://github.com/4waiz/awaizportfolio) | Personal portfolio and professional identity hub |
-| [**BridgePilot**](https://github.com/4waiz/BridgePilot) | Product-interface and workflow experiment |
-| [**BridgeVault**](https://github.com/4waiz/BridgeVault) | Secure storage and vault-themed product concept |
-| [**Bridge Scan**](https://github.com/4waiz/Bridge-scan) | Scanning, document and workflow automation |
-| [**Jarvis HUD**](https://github.com/4waiz/jarvis-hud) | Futuristic dashboard and assistant interface |
-| [**Certificate Generator**](https://github.com/4waiz/certificate-generator) | Automated certificate-generation workflows |
-| [**Mapit**](https://github.com/4waiz/mapit) | Mapping and location-based web system |
-
----
-
-## 🏆 Competition Record
-
+🏆 Competition Record
 <div align="center">
 
 <img src="https://img.shields.io/badge/19%C3%97-Competition%20Winner-CA8A04?style=for-the-badge" alt="19-time competition winner" />
@@ -119,19 +95,16 @@ Kanban Studios is the product and engineering ecosystem I am building around sec
 </div>
 
 My competition work spans AI, software engineering, robotics, game development, innovation and rapid product delivery. The goal is not only to perform well on demo day - it is to turn strong prototypes into reusable systems, repositories and longer-term product directions.
+🧪 Engineering DNA
+Principle	How I work
+Build end-to-end	UI, backend, AI, data, automation, deployment and the operational workflow around the product
+Human review matters	AI should accelerate decisions without hiding responsibility or removing necessary oversight
+Secure by default	Authentication, role control, validation, traceability and deployment concerns belong in the architecture
+Design for operations	Dashboards and workflows must remain understandable for the people who use and maintain them
+Ship, learn, improve	Build quickly, test with real constraints, document decisions and keep improving after the first release
 
-## 🧪 Engineering DNA
 
-| Principle | How I work |
-|---|---|
-| **Build end-to-end** | UI, backend, AI, data, automation, deployment and the operational workflow around the product |
-| **Human review matters** | AI should accelerate decisions without hiding responsibility or removing necessary oversight |
-| **Secure by default** | Authentication, role control, validation, traceability and deployment concerns belong in the architecture |
-| **Design for operations** | Dashboards and workflows must remain understandable for the people who use and maintain them |
-| **Ship, learn, improve** | Build quickly, test with real constraints, document decisions and keep improving after the first release |
-
-## 📊 GitHub Signals
-
+📊 GitHub Signals
 <div align="center">
 
 <a href="https://github.com/4waiz?tab=repositories">
@@ -145,38 +118,36 @@ My competition work spans AI, software engineering, robotics, game development, 
 </a>
 <img src="https://komarev.com/ghpvc/?username=4waiz&style=for-the-badge&label=Profile%20Views&color=0EA5E9&labelColor=111827" alt="Profile views" />
 
-<br/><br/>
+
+
 
 <img src="https://streak-stats.demolab.com?user=4waiz&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=F97316&currStreakLabel=C084FC" width="72%" alt="Awaiz Ahmed GitHub contribution streak" />
 
-<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4waiz&theme=tokyo-night&hide_border=true&area=true&custom_title=Awaiz%20Ahmed%27s%20Contribution%20Graph" width="96%" alt="Awaiz Ahmed contribution graph" />
+
+
+<a href="https://github.com/4waiz">
+  <img src="https://ghchart.rshah.org/2563EB/4waiz" width="96%" alt="Awaiz Ahmed GitHub contribution graph" />
+</a>
 
 </div>
 
-> The unreliable Vercel summary, language and trophy cards were intentionally removed so this section does not show broken-image placeholders.
 
-## ⚡ Recent Activity
-
+⚡ Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 <sub>Automatically refreshed through the included GitHub Actions workflow.</sub>
-
-
-## 🤝 Let's Build Something Useful
-
+🤝 Let's Build Something Useful
 I'm open to conversations with engineers, researchers, founders, innovation teams and collaborators working on AI, intelligent automation, robotics, Industry 5.0, cloud systems and products that need to move from concept to real deployment.
-
 <div align="center">
 
 <a href="mailto:awaiz42ad@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-awaiz42ad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Awaiz" /></a>
 <a href="https://www.linkedin.com/in/awaizahmed/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="https://github.com/4waiz"><img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
-<a href="https://awaizahmed.com"><img src="https://img.shields.io/badge/Portfolio-awaizahmed.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Awaiz portfolio" /></a>
+<a href="https://kanbanstudios.ae/team-kanban"><img src="https://img.shields.io/badge/My%20Portfolio-Kanban%20Studios-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My portfolio" /></a>
 
-<br/><br/>
+
 
 <h3>Build intelligently · Ship reliably · Keep learning</h3>
 
