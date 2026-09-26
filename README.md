@@ -106,7 +106,8 @@ Design for operations	Dashboards and workflows must remain understandable for th
 Ship, learn, improve	Build quickly, test with real constraints, document decisions and keep improving after the first release
 
 
-📊 GitHub Signals
+📊 GitHub Activity
+A quick view of my public engineering activity, consistency and open-source footprint.
 <div align="center">
 
 <a href="https://github.com/4waiz?tab=repositories">
@@ -123,23 +124,24 @@ Ship, learn, improve	Build quickly, test with real constraints, document decisio
 
 
 
+🔥 Contribution Streak
 <img src="https://streak-stats.demolab.com?user=4waiz&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=F97316&currStreakLabel=C084FC" width="72%" alt="Awaiz Ahmed GitHub contribution streak" />
 
 
-
-
+🗓️ 12-Month Contribution Activity
+Each square represents one day. Darker blue means more GitHub contributions on that day.
 <a href="https://github.com/4waiz">
-  <img src="https://ghchart.rshah.org/2563EB/4waiz" width="96%" alt="Awaiz Ahmed GitHub contribution graph" />
+  <img src="https://ghchart.rshah.org/2563EB/4waiz" width="96%" alt="Awaiz Ahmed GitHub contribution activity over the last 12 months" />
 </a>
 
 </div>
 
-
-⚡ Recent Activity
+⚡ Recent GitHub Activity
+Latest public GitHub activity appears here automatically.
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<sub>Automatically refreshed through the included GitHub Actions workflow.</sub>
+This section is refreshed automatically by GitHub Actions.
 🤝 Let's Build Something Useful
 I'm open to conversations with engineers, researchers, founders, innovation teams and collaborators working on AI, intelligent automation, robotics, Industry 5.0, cloud systems and products that need to move from concept to real deployment.
 <div align="center">
