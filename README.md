@@ -138,8 +138,6 @@ My competition work spans AI, software engineering, robotics, game development, 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4waiz&theme=tokyo-night&hide_border=true&area=true&custom_title=Awaiz%20Ahmed%27s%20Contribution%20Graph" width="96%" alt="Awaiz Ahmed contribution graph" />
-
 </div>
 
 
