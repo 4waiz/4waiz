@@ -24,6 +24,8 @@
 
 
 
+</div>
+
 🏗️ Kanban Studios Ecosystem
 Kanban Studios is the product and engineering ecosystem I am building around secure software, AI-assisted delivery and practical automation.
 Product	Purpose
