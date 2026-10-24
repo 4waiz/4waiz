@@ -4,9 +4,9 @@
 
 <a href="https://kanbanstudios.com/awaiz">
   <picture>
-    <source type="image/avif" srcset="https://raw.githubusercontent.com/4waiz/4waiz/main/assets/banner/banner.avif" />
-    <source type="image/webp" srcset="https://raw.githubusercontent.com/4waiz/4waiz/main/assets/banner/banner.webp" />
-    <img src="assets/banner/banner.gif" width="100%" alt="Awaiz Ahmed, Software Engineer at EDGE and leading Kanban Studios. A cinematic shot of a futuristic engineering studio where a small robot waves beside holographic digital-twin cities." />
+    <source type="image/avif" srcset="https://raw.githubusercontent.com/4waiz/4waiz/main/assets/banner/banner.avif?v=rabt" />
+    <source type="image/webp" srcset="https://raw.githubusercontent.com/4waiz/4waiz/main/assets/banner/banner.webp?v=rabt" />
+    <img src="assets/banner/banner.gif" width="100%" alt="Awaiz Ahmed, Software Engineer at EDGE and leading Kanban Studios. Rabt, his glass-orb AI assistant, smiles inside a ring of glowing teal particles in a dark studio." />
   </picture>
 </a>
 
