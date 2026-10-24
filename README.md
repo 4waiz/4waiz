@@ -123,28 +123,28 @@ I'm a software engineer at **EDGE** in Abu Dhabi and I lead **Kanban Studios**. 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,cs,dart,cpp&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=py,ts,js,cs,dart,cpp&theme=light" alt="Python, TypeScript, JavaScript, C#, Dart, C++" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccs%2Cdart%2Ccpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccs%2Cdart%2Ccpp&theme=light" alt="Python, TypeScript, JavaScript, C#, Dart, C++" />
 </picture>
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi&theme=light" alt="PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch%2Ctensorflow%2Csklearn%2Copencv%2Cfastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch%2Ctensorflow%2Csklearn%2Copencv%2Cfastapi&theme=light" alt="PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI" />
 </picture>
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,svelte,threejs,tailwind,nodejs&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,threejs,tailwind,nodejs&theme=light" alt="React, Next.js, Svelte, Three.js, Tailwind CSS, Node.js" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Csvelte%2Cthreejs%2Ctailwind%2Cnodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Csvelte%2Cthreejs%2Ctailwind%2Cnodejs&theme=light" alt="React, Next.js, Svelte, Three.js, Tailwind CSS, Node.js" />
 </picture>
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity,blender,flutter,ros,raspberrypi,arduino&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=unity,blender,flutter,ros,raspberrypi,arduino&theme=light" alt="Unity, Blender, Flutter, ROS, Raspberry Pi, Arduino" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity%2Cblender%2Cflutter%2Cros%2Craspberrypi%2Carduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unity%2Cblender%2Cflutter%2Cros%2Craspberrypi%2Carduino&theme=light" alt="Unity, Blender, Flutter, ROS, Raspberry Pi, Arduino" />
 </picture>
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,cloudflare,vercel,supabase,postgres&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,cloudflare,vercel,supabase,postgres&theme=light" alt="Docker, Kubernetes, Azure, AWS, Cloudflare, Vercel, Supabase, PostgreSQL" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Ckubernetes%2Cazure%2Caws%2Ccloudflare%2Cvercel%2Csupabase%2Cpostgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker%2Ckubernetes%2Cazure%2Caws%2Ccloudflare%2Cvercel%2Csupabase%2Cpostgres&theme=light" alt="Docker, Kubernetes, Azure, AWS, Cloudflare, Vercel, Supabase, PostgreSQL" />
 </picture>
 
 <br/><br/>
@@ -171,10 +171,6 @@ I'm a software engineer at **EDGE** in Abu Dhabi and I lead **Kanban Studios**. 
   <img src="https://streak-stats.demolab.com?user=4waiz&background=FFFFFF&border=DBEAFE&stroke=DBEAFE&ring=2563EB&fire=3B82F6&currStreakNum=0B1B3F&sideNums=0B1B3F&currStreakLabel=2563EB&sideLabels=51618A&dates=6B7A99&hide_border=true" width="80%" alt="GitHub contribution streak" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=4waiz&bg_color=0d1117&color=c9d1d9&line=3b82f6&point=93c5fd&area=true&area_color=1d4ed8&hide_border=true&title_color=f5f8ff" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4waiz&bg_color=ffffff&color=0b1b3f&line=2563eb&point=1d4ed8&area=true&area_color=93c5fd&hide_border=true&title_color=0b1b3f" width="100%" alt="Contribution activity graph" />
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4waiz/4waiz/output/snake-dark.svg" />
