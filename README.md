@@ -162,6 +162,19 @@ I'm a software engineer at **EDGE** in Abu Dhabi and I lead **Kanban Studios**. 
 
 <img src="assets/v2/divider.svg" width="100%" alt="" />
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4waiz/4waiz/main/assets/stats/stats-dark.svg" />
+  <img src="https://raw.githubusercontent.com/4waiz/4waiz/main/assets/stats/stats-light.svg" width="100%" alt="GitHub activity for the last 30 days compared with the previous 30: contributions, issues, pull requests and commits, daily charts, and most active public repositories. Refreshed daily from the GitHub API." />
+</picture>
+
+</div>
+
+<img src="assets/v2/divider.svg" width="100%" alt="" />
+
 ## 📈 Activity
 
 <div align="center">
