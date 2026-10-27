@@ -200,24 +200,6 @@ Places each robot perception frame on board, at the edge or both, to meet its de
 
 <img src="assets/v2/divider.svg" width="100%" alt="" />
 
-## 📈 Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=4waiz&background=0D1117&border=1E2A4A&stroke=1E2A4A&ring=3B82F6&fire=60A5FA&currStreakNum=F5F8FF&sideNums=F5F8FF&currStreakLabel=93C5FD&sideLabels=93A6CC&dates=7D8DB0&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=4waiz&background=FFFFFF&border=DBEAFE&stroke=DBEAFE&ring=2563EB&fire=3B82F6&currStreakNum=0B1B3F&sideNums=0B1B3F&currStreakLabel=2563EB&sideLabels=51618A&dates=6B7A99&hide_border=true" width="80%" alt="GitHub contribution streak" />
-</picture>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4waiz/4waiz/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/4waiz/4waiz/output/snake-light.svg" width="100%" alt="A snake eating the contribution graph" />
-</picture>
-
-</div>
-
-<img src="assets/v2/divider.svg" width="100%" alt="" />
 
 ## 🤝 Let's build something
 
