@@ -1,0 +1,44 @@
+name: GitHub stats dashboard
+
+on:
+  schedule:
+    - cron: "41 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats-dashboard
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render dark and light dashboards from live GitHub data
+        env:
+          # github.token reads public contribution data. Add a PROFILE_STATS_TOKEN
+          # secret (a PAT of yours) only if private-repository activity should count;
+          # private repository names are never drawn either way.
+          GH_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || github.token }}
+        run: python scripts/profile_stats.py --user "${{ github.repository_owner }}" --out assets/stats
+
+      - name: Commit if the dashboards changed
+        run: |
+          git add assets/stats
+          if git diff --cached --quiet; then
+            echo "Dashboards unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh GitHub stats dashboard"
+          git push
