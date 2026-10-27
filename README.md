@@ -54,6 +54,13 @@ I'm a software engineer at **EDGE** in Abu Dhabi and I lead **Kanban Studios**. 
 | [**DAPPER**](https://github.com/4waiz/Dapper) | Deadline-aware scheduler placing each robot perception frame on board, at the edge or both | Python · edge offloading · pytest | 📄 IEEE FMEC 2026 |
 | [**Encirra**](https://github.com/4waiz/Encirra) | Digital twin that simulates cascading power-water failures and verifies safer urban recovery plans | pandapower · EPANET (WNTR) · React Three Fiber | IEEE NEECON 2026 |
 | [**AquaTwin**](https://github.com/4waiz/AquaTwin) | Physics-informed digital twin recommending safety-checked operating strategies for desalination plants | Next.js · gradient-boosted trees · conformal prediction | KU × UNESCO Water Hackathon |
+
+<details>
+<summary><b>Six more projects</b></summary>
+<br/>
+
+| Project | What it does | Built with | Status |
+| --- | --- | --- | --- |
 | [**CONTINUA**](https://github.com/4waiz/CONTINUA) | Predictive connectivity prototype keeping a rover's control, telemetry and video alive across networks | TypeScript · Next.js · Python · network simulation | EDGE Challenge ATP2026 |
 | [**Rafeeq**](https://github.com/4waiz/Rafeeq-library) | Autonomous TIAGo Pro robot that finds, grasps and delivers library books in simulation | ROS 2 · TIAGo Pro · Python · Docker | Emirates Robotics Competition 2026 |
 | [**BeBTR**](https://github.com/4waiz/BeBTR) | On-device computer vision that coaches exercise form and flags injury risk live | computer vision · pose estimation · on-device AI | 🥇 Smart Health Hackathon |
@@ -61,13 +68,19 @@ I'm a software engineer at **EDGE** in Abu Dhabi and I lead **Kanban Studios**. 
 | [**The Twelfth Stamp**](https://github.com/4waiz/12th-Stamp) | Psychological horror across eleven countries, playable in a browser, on Quest 3 or in PC VR | Unity 6 · C# · WebXR · OpenXR | [Play on itch.io](https://4waiz.itch.io/the-twelfth-stamp) |
 | [**SKYFOLD**](https://github.com/4waiz/skyfold) | Nonviolent puzzle-adventure for PC and Quest 3 VR about repairing a miniature coastal city | Unity 6 (URP) · OpenXR · C# | PC · Quest 3 |
 
+</details>
+
 <sub>Every build, ranked by complexity, with demos and videos: <a href="https://kanbanstudios.com/awaiz"><b>kanbanstudios.com/awaiz</b></a></sub>
 
 <img src="assets/v2/divider.svg" width="100%" alt="" />
 
 ## 🏆 Results
 
-22 competition wins by my own count across 30+ hackathons. These are the documented ones.
+22 competition wins by my own count across 30+ hackathons.
+
+<details>
+<summary><b>Top results</b>: 🥇 AI Everything Abu Dhabi · 🥇 INSPIRE ’26 · 🥇 Oriane × Replit · 🥇 Replit × IEC · 🥇 Smart Health · 🥇 CTRL Game Jam</summary>
+<br/>
 
 | | Result | Event | Build |
 | :-: | --- | --- | --- |
@@ -79,6 +92,8 @@ I'm a software engineer at **EDGE** in Abu Dhabi and I lead **Kanban Studios**. 
 | 🥈 | 2nd place | Universities Hackathon: Farm to Market · Ministry of Climate Change & Environment · Apr 2026 | [SooqRoot](https://github.com/4waiz/SooqRoot) |
 | 🥇 | 1st place | Smart Health Hackathon · Department of Health Abu Dhabi & startAD · AED 20,000 · Apr 2025 | [BeBTR](https://github.com/4waiz/BeBTR) |
 | 🥇 | 1st place | CTRL Game Jam · Abu Dhabi Gaming · AED 30,000 · Nov 2024 | |
+
+</details>
 
 <details>
 <summary><b>More documented results and recognitions</b></summary>
@@ -106,15 +121,25 @@ I'm a software engineer at **EDGE** in Abu Dhabi and I lead **Kanban Studios**. 
 
 ## 📄 Research
 
-- **Keeping Engineers in the Loop: Explainable Requirement Defect Screening Across Software Requirements Specifications**<br/>
-  IEEE HCARE 2026, co-located with RE’26 in Montréal · *published* · with Mohammad Umer, supervised by Dr Khubaib Amjad Alam<br/>
-  9,165 requirements screened: 0.855 accuracy and 0.891 macro-F1, with explanations an engineer can check.<br/>
-  [Paper](https://ieeexplore.ieee.org/document/11677830) · [Reproducibility package](https://github.com/4waiz/hcare2026_awaiz)
+<details>
+<summary><b>Keeping Engineers in the Loop: Explainable Requirement Defect Screening Across Software Requirements Specifications</b> · IEEE HCARE 2026 · <i>published</i></summary>
+<br/>
 
-- **DAPPER: Deadline-Aware Edge Perception for Mission-Critical Robots under Dynamic Network Conditions**<br/>
-  IEEE FMEC 2026, the 11th Conference on Fog and Mobile Edge Computing · *accepted* · with Dr Khubaib Amjad Alam<br/>
-  Places each robot perception frame on board, at the edge or both, to meet its deadline.<br/>
-  [Project page](https://4waiz.github.io/Dapper/) · [Code](https://github.com/4waiz/Dapper)
+Co-located with RE’26 in Montréal · with Mohammad Umer, supervised by Dr Khubaib Amjad Alam<br/>
+9,165 requirements screened: 0.855 accuracy and 0.891 macro-F1, with explanations an engineer can check.<br/>
+[Paper](https://ieeexplore.ieee.org/document/11677830) · [Reproducibility package](https://github.com/4waiz/hcare2026_awaiz)
+
+</details>
+
+<details>
+<summary><b>DAPPER: Deadline-Aware Edge Perception for Mission-Critical Robots under Dynamic Network Conditions</b> · IEEE FMEC 2026 · <i>accepted</i></summary>
+<br/>
+
+The 11th Conference on Fog and Mobile Edge Computing · with Dr Khubaib Amjad Alam<br/>
+Places each robot perception frame on board, at the edge or both, to meet its deadline.<br/>
+[Project page](https://4waiz.github.io/Dapper/) · [Code](https://github.com/4waiz/Dapper)
+
+</details>
 
 <img src="assets/v2/divider.svg" width="100%" alt="" />
 
