@@ -1,8 +1,3 @@
-<!-- Awaiz Ahmed · GitHub profile · github.com/4waiz -->
-
-<div align="center">
-## 🧰 Toolbox
-
 <div align="center">
 
 <picture>
